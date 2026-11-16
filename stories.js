@@ -1,5 +1,190 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-16",
+    "stories": [
+      {
+        "id": "2026-11-16-young-voters",
+        "category": "World Affairs",
+        "region": "United States",
+        "date": "2026-11-15",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/us/battle-young-male-voters-intensifies-after-us-midterm-rebuke-republicans-2026-11-15/",
+        "title": "What the US Midterms Tell Us About Young Voters",
+        "dek": "Both major parties are looking closely at how young men voted, and what might keep their support.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "美国中期选举在总统任期中段举行。本篇聚焦 11 月 15 日路透社对年轻男性选民的报道。文中的百分比是调查估计，2024 年总统票和 2026 年众议院票不能直接视为同一批人改变了立场。",
+        "b1": [
+          "After the November 3 midterm elections in the United States, both main parties are paying close attention to young men. Researchers at Tufts University estimated that 59 percent of male voters aged 18 to 29 backed Democratic candidates for the House of Representatives. About 37 percent backed Republican candidates. Two years earlier, a different survey found that young men had favored Republican Donald Trump in the race for president.",
+          "The two elections asked voters to make different choices. In 2024, they were choosing a president. This year, they were deciding who should represent their local areas in the House. The people who came out to vote may also have changed. These differences make it difficult to say how many individual voters switched parties.",
+          "Reuters reported on November 15 that strategists from both parties were looking at issues such as living costs. For young adults, those costs can show up in ordinary decisions, such as whether they can rent their own place or how much they spend getting to work."
+        ],
+        "b2": [
+          "The most useful question about young men in the 2026 US midterms may be what the numbers can actually tell us. Tufts University researchers put support for Democratic House candidates among male voters aged 18 to 29 at 59 percent. Their estimate for Republicans was 37 percent. Reuters reported on November 15 that strategists in both parties were considering what to do about the shift.",
+          "The comparison with 2024 is striking, but it comes with two limits. That year's figures come from a different survey, and they measure a presidential contest. House races involve local candidates. Turnout can also change the makeup of a group from one election to the next. The figures show a change in the overall pattern of votes, while leaving open how many people personally changed their minds.",
+          "The practical test for both parties is what they do with the information. Campaigns can look for better ways to reach younger audiences, but voters can also judge policies by what happens to familiar expenses such as rent, food or transport."
+        ],
+        "vocab": [
+          [
+            "midterm",
+            "/ˈmɪdtɜːrm/",
+            "中期选举中的；期中的",
+            "The midterm elections changed the balance in Congress."
+          ],
+          [
+            "turnout",
+            "/ˈtɜːrnaʊt/",
+            "投票率；到场人数",
+            "Turnout was higher than expected."
+          ],
+          [
+            "estimate",
+            "/ˈestɪmət/",
+            "估计值",
+            "The estimate is based on a national survey."
+          ],
+          [
+            "strategist",
+            "/ˈstrætədʒɪst/",
+            "战略策划者",
+            "The campaign hired a new strategist."
+          ],
+          [
+            "makeup",
+            "/ˈmeɪkʌp/",
+            "组成；构成",
+            "The makeup of the class changed over time."
+          ]
+        ],
+        "question": "What else would you want to know before concluding that young voters changed their minds?",
+        "thoughts": [
+          "Tracking the same people across elections could reveal who actually switched.",
+          "Separate data on turnout could show whether different voters took part."
+        ]
+      },
+      {
+        "id": "2026-11-16-cape-verde-vote",
+        "category": "World Affairs",
+        "region": "Cape Verde",
+        "date": "2026-11-15",
+        "source": "Associated Press",
+        "sourceUrl": "https://apnews.com/article/cape-verde-presidential-election-rosa-neves-b066358194132f21ea91bcbd6699d5e0",
+        "title": "Cape Verde Votes With Young People's Futures in Mind",
+        "dek": "A presidential race in the Atlantic island country puts jobs, emigration and the balance of power in focus.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "佛得角是西非外海的岛国。11 月 15 日举行总统选举，现任总统若泽·马里亚·内韦斯寻求连任，前司法部长若阿娜·罗莎是该国首位女性总统候选人。本文写的是投票和竞选议题，未将初步计票视为正式结果。",
+        "b1": [
+          "People in Cape Verde voted for a president on November 15. The country is made up of islands in the Atlantic Ocean off West Africa. President José Maria Neves is seeking a second term. Joana Rosa, a former justice minister, is among the six candidates. She is the first woman to run for president in the country.",
+          "Jobs and the cost of living were important issues in the campaign. Limited chances to find work have led some young people to look abroad. The choice to move can open doors for an individual, but it may also mean leaving family and friends behind. People who have moved still have a voice in the election: nearly 77,000 citizens living abroad registered to vote, according to the Associated Press.",
+          "Polls closed on Sunday evening. Under the election rules, a second vote is scheduled for November 29 if nobody wins more than half of the first round's votes. The two leading candidates would then face each other."
+        ],
+        "b2": [
+          "The presidential election in Cape Verde placed two questions side by side: who should hold the office, and what might persuade younger people to build a life on the islands? President José Maria Neves sought a second term on November 15 in a field of six. Former justice minister Joana Rosa became the country's first woman presidential candidate.",
+          "The job comes with limits. The prime minister directs most government policy, while voters choose the president directly. The president can veto legislation, a power that helps explain why Rosa emphasized checks on the governing party. Neves focused on building support across parties for goals such as improving housing and creating jobs.",
+          "Emigration gives the election another dimension. AP reported that nearly 77,000 citizens registered to vote from abroad, close to one fifth of the electorate. The views of people who have left can therefore matter alongside the views of those deciding whether to stay. The rules provide for a November 29 runoff if the leading candidate falls short of an outright majority."
+        ],
+        "vocab": [
+          [
+            "emigration",
+            "/ˌemɪˈɡreɪʃən/",
+            "移居国外",
+            "The study looked at the reasons for emigration."
+          ],
+          [
+            "term",
+            "/tɜːrm/",
+            "任期",
+            "The mayor is seeking a second term."
+          ],
+          [
+            "runoff",
+            "/ˈrʌnɔːf/",
+            "决选；第二轮投票",
+            "The top two candidates advanced to a runoff."
+          ],
+          [
+            "veto",
+            "/ˈviːtoʊ/",
+            "否决",
+            "The president can veto certain bills."
+          ],
+          [
+            "electorate",
+            "/ɪˈlektərət/",
+            "全体选民",
+            "The survey covered a small share of the electorate."
+          ]
+        ],
+        "question": "What would make staying in your hometown a realistic choice after graduation?",
+        "thoughts": [
+          "Jobs with a path to promotion could matter most.",
+          "Affordable homes and strong ties to family might matter just as much."
+        ]
+      },
+      {
+        "id": "2026-11-16-eurovision-asia",
+        "category": "Culture & Society",
+        "region": "Thailand & Philippines",
+        "date": "2026-11-14",
+        "source": "Eurovision",
+        "sourceUrl": "https://www.eurovision.com/newsroom/release/carmelle-from-philippines-wins-inaugural-eurovision-song-contest-asia-in-bangkok/",
+        "title": "Bangkok Hosts a New Stage for Asian Pop",
+        "dek": "Philippine singer Carmelle wins the first Eurovision Song Contest Asia as artists bring many languages to one stage.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "首届亚洲歌唱大赛 Eurovision Song Contest Asia 于 11 月 14 日在曼谷举行。菲律宾歌手 Carmelle 凭《Sobra-Sobra》获胜。参赛艺人来自 11 个国家，评审和观众共同决定赛果。",
+        "b1": [
+          "Eleven countries took part in the first Eurovision Song Contest Asia in Bangkok, Thailand, on November 14. The winner was Carmelle, a singer from the Philippines. She performed a song called Sobra-Sobra and finished with 211 points. Thailand came second, and Vietnam came third.",
+          "The result came from two sets of votes. Panels of music professionals gave Carmelle 93 points, and viewers gave her another 118. She finished first with both groups. The organizers said viewers voted from 183 countries and territories. So although the singers came from across Asia, the audience reached much further.",
+          "There was plenty to listen for beyond the final score. Across the show, artists sang in ten local languages as well as English. A viewer hearing an unfamiliar language could still follow a change in mood, notice a strong beat or remember the melody. For an English learner, that experience may feel familiar: sometimes a voice gives you a clue about the meaning before you understand the words."
+        ],
+        "b2": [
+          "When Bangkok staged the first Eurovision Song Contest Asia on November 14, it brought eleven countries into a shared competition without asking them to sound alike. The performances used ten local languages and English. Carmelle won for the Philippines with Sobra-Sobra, ahead of the entries from host country Thailand and from Vietnam.",
+          "The scoring gave judges and viewers equal weight. Carmelle led both groups, receiving 93 points from the professional juries and 118 from the public for a combined 211. The organizer reported votes from 183 countries and territories, including the participating countries. That total describes where votes came from and leaves open how large the audience was in each place.",
+          "One reason to follow a contest such as this is to hear music you might never come across in your usual playlists. The format puts unfamiliar artists within reach of a wider audience. It also raises an interesting question about what travels most easily: the melody, the language, the performance, or the story that listeners bring to the song."
+        ],
+        "vocab": [
+          [
+            "inaugural",
+            "/ɪˈnɔːɡjərəl/",
+            "首届的；开幕的",
+            "The inaugural festival was held in Bangkok."
+          ],
+          [
+            "jury",
+            "/ˈdʒʊri/",
+            "评审团",
+            "The jury awarded points to each singer."
+          ],
+          [
+            "entry",
+            "/ˈentri/",
+            "参赛作品",
+            "Her entry was a song about growing up."
+          ],
+          [
+            "melody",
+            "/ˈmelədi/",
+            "旋律",
+            "I remembered the melody after one listen."
+          ],
+          [
+            "weight",
+            "/weɪt/",
+            "权重；重要程度",
+            "The final score gives both votes equal weight."
+          ]
+        ],
+        "question": "What makes you enjoy a song when you don't understand its lyrics?",
+        "thoughts": [
+          "A strong melody or beat can make the song memorable on its own.",
+          "Reading a translation can reveal why the performance feels joyful, sad or urgent."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "stories": [
       {
