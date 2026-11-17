@@ -1,5 +1,190 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-17",
+    "stories": [
+      {
+        "id": "2026-11-17-spain-wage",
+        "category": "World Affairs",
+        "region": "Spain",
+        "date": "2026-11-16",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/spains-government-raise-minimum-wage-53-election-looms-2026-11-16/",
+        "title": "Spain Plans to Raise Its Minimum Wage",
+        "dek": "A proposal to lift the wage floor by 5.3 percent brings pay and living costs into focus before an election.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "西班牙劳工部长约兰达·迪亚斯 11 月 16 日宣布，政府计划在 2027 年将最低工资提高 5.3%。按每年 14 次发薪计算，每次为 1,286 欧元。该方案在报道时仍待内阁批准。",
+        "b1": [
+          "Spain's government plans to raise the minimum wage in 2027. The minimum wage is the lowest amount an employer can normally pay a worker covered by the rules. On November 16, Labour Minister Yolanda Díaz said the government planned to raise it by 5.3 percent. She said the cabinet would consider the measure the following day.",
+          "The new figure would be 1,286 euros per payment, an increase of 65 euros. Spain reports this figure using 14 payments a year. Two are extra payments, one in July and another in December. If you wanted to compare the amount with a job that pays 12 times a year, you could first work out how much each job pays over a whole year.",
+          "The government expects more than 2.5 million workers to benefit, including many women and young people. The announcement came before the November 29 parliamentary election. For people earning the minimum wage, a question closer to home is how far the extra money would go once they pay for food, transport and housing."
+        ],
+        "b2": [
+          "A proposed change to Spain's minimum wage shows why a monthly salary can be hard to compare across countries. Under the plan described by Labour Minister Yolanda Díaz on November 16, the wage floor would rise by 5.3 percent to 1,286 euros per payment. The figure is based on 14 installments, so the proposed annual total is 18,004 euros.",
+          "The announcement came less than two weeks before the November 29 parliamentary election. At the time Reuters reported it, the cabinet had yet to approve the measure. The government's estimate that more than 2.5 million workers would benefit gives a sense of the scale, while the effect for each worker would depend on their current pay and expenses.",
+          "There is a difference between receiving more euros and being able to buy more with them. Prices and wages can rise at different rates. Even a national inflation figure may feel distant to a worker who spends a large part of their income on rent. Comparing pay with a household's actual expenses can make the policy easier to understand."
+        ],
+        "vocab": [
+          [
+            "wage floor",
+            "/weɪdʒ flɔːr/",
+            "工资下限",
+            "The new law would raise the wage floor."
+          ],
+          [
+            "installment",
+            "/ɪnˈstɔːlmənt/",
+            "分期付款中的一期",
+            "She paid for the course in three installments."
+          ],
+          [
+            "cabinet",
+            "/ˈkæbɪnət/",
+            "内阁",
+            "The cabinet will discuss the proposal on Tuesday."
+          ],
+          [
+            "approve",
+            "/əˈpruːv/",
+            "批准",
+            "The board met to approve the budget."
+          ],
+          [
+            "inflation",
+            "/ɪnˈfleɪʃən/",
+            "通货膨胀",
+            "Inflation made some household goods more expensive."
+          ]
+        ],
+        "question": "What information would help you decide whether a wage increase improves everyday life?",
+        "thoughts": [
+          "A comparison with rent, food and transport costs would show how much more a worker can buy.",
+          "Looking at how many workers actually receive a raise would show how widely the policy helps."
+        ]
+      },
+      {
+        "id": "2026-11-17-maori-parliament",
+        "category": "Society",
+        "region": "New Zealand",
+        "date": "2026-11-15",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/new-maori-generation-seeks-reshape-new-zealands-political-landscape-2026-11-15/",
+        "title": "Māori Voices in New Zealand’s Next Parliament",
+        "dek": "A report on incoming lawmakers looks at the link between language education and political participation.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "路透社 11 月 15 日（UTC）报道了新西兰多名有望首次进入议会的毛利议员。选举仍在正式计票，官方结果定于 11 月 27 日公布。《怀唐伊条约》是理解文中政策争论的重要背景。",
+        "b1": [
+          "Tania Waikato spent years using social media to talk about politics and encourage people to vote in New Zealand. Now the lawyer is expected to enter Parliament as a Green Party lawmaker. Reuters reported that at least nine new Māori lawmakers were on course to take seats, based on the early election results. The official results are due on November 27.",
+          "Māori are the Indigenous people of New Zealand. One issue for Waikato is how the Treaty of Waitangi should guide government decisions today. The treaty was signed in 1840. Its English and Māori versions differ in important ways, which helps explain why people continue to debate what it means.",
+          "Reuters also looked at how education shaped some of the politicians in the story. Some grew up with Māori language education, and Waikato attended a bilingual school. Learning in more than one language can give people different ways to discuss the same public problem. The question for these lawmakers is how to bring those experiences into their work in Parliament."
+        ],
+        "b2": [
+          "The rise of more Māori lawmakers in New Zealand points to a link between education and political participation. Reuters reported that at least nine new Māori members were expected to enter Parliament. Its profile includes Green Party lawyer Tania Waikato, who attended an early bilingual school and later used social media to encourage people to vote.",
+          "Waikato has said that protecting the role of the Treaty of Waitangi will be a priority. The treaty dates to 1840, and its English and Māori texts differ in significant ways. Debates about its place in government policy therefore involve both the interpretation of an old agreement and choices about how institutions operate now.",
+          "The reporting is based on preliminary results. New Zealand's Electoral Commission says those figures exclude around 400,000 special votes, and it is due to release the official count on November 27. The profiles offer a sense of the experiences that some likely new members would bring. The final count will determine which seats each party can actually rely on."
+        ],
+        "vocab": [
+          [
+            "lawmaker",
+            "/ˈlɔːmeɪkər/",
+            "立法者；议员",
+            "The lawmaker met residents at a public meeting."
+          ],
+          [
+            "preliminary",
+            "/prɪˈlɪmɪneri/",
+            "初步的",
+            "The team announced its preliminary findings."
+          ],
+          [
+            "bilingual",
+            "/baɪˈlɪŋɡwəl/",
+            "双语的",
+            "The school runs a bilingual programme."
+          ],
+          [
+            "treaty",
+            "/ˈtriːti/",
+            "条约",
+            "The two sides signed a treaty."
+          ],
+          [
+            "interpretation",
+            "/ɪnˌtɜːrprəˈteɪʃən/",
+            "解释；理解",
+            "The judges discussed two interpretations of the rule."
+          ]
+        ],
+        "question": "How might learning in two languages shape the way someone works in public life?",
+        "thoughts": [
+          "It can help a representative hear directly from more people.",
+          "It may also change which ideas and experiences they bring into a debate."
+        ]
+      },
+      {
+        "id": "2026-11-17-london-biotech-lab",
+        "category": "Technology & Business",
+        "region": "United Kingdom & United States",
+        "date": "2026-11-16",
+        "source": "Flagship Pioneering",
+        "sourceUrl": "https://www.flagshippioneering.com/news/press-release/flagship-pioneering-launches-flagship-origination-lab-in-london-to-create-ai-native-platform-companies-in-the-u-k",
+        "title": "A London Lab Will Test Ideas for AI and Biotech",
+        "dek": "A US company builder commits £100 million to a London team that will test research ideas and build startups.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "美国生物科技创投机构 Flagship Pioneering 于 11 月 16 日宣布，在伦敦设立其美国以外首个专门创建公司的团队，首期承诺投入 1 亿英镑。这笔投入用于建立团队和探索新项目，公告并未宣布已有新药问世。",
+        "b1": [
+          "An American firm called Flagship Pioneering announced on November 16 that it was setting up a lab in London. The firm plans to put an initial 100 million pounds into the project. It says this will be its first team outside the United States with the specific job of creating companies.",
+          "The people in the lab will look for ideas that use artificial intelligence to tackle problems in areas such as health. One possible use of AI in this kind of work is to help researchers choose which of many ideas to test first. A computer can suggest where to look. Scientists still have to run experiments to find out what actually works.",
+          "The lab is meant to take promising ideas through those early steps and help build businesses around some of them. Readers may know Moderna, a company that Flagship helped create. It can take years to find out whether a research idea is useful, so the news here is the start of a programme whose results are still to come."
+        ],
+        "b2": [
+          "The London project announced by Flagship Pioneering begins at a stage when many ideas have yet to become businesses. The US firm says it is committing an initial £100 million to a team that will come up with ideas, test them and decide which could support new companies. It calls the planned unit its first of this kind outside the United States.",
+          "Artificial intelligence can help sort through possible approaches before researchers spend time and money testing them. A suggestion from a model is a starting point for checking an idea against evidence. A prediction that looks promising on a screen may still fail when it is tested, and that result can be valuable if it helps direct the next experiment.",
+          "It may take time to see how the new lab performs. Money committed and people hired are early signs that the project is moving. Useful experiments, independent checks and new companies doing sustained research would tell us more about what the investment has achieved."
+        ],
+        "vocab": [
+          [
+            "commit",
+            "/kəˈmɪt/",
+            "承诺投入；承诺",
+            "The university committed money to the new lab."
+          ],
+          [
+            "venture",
+            "/ˈventʃər/",
+            "创业项目；商业尝试",
+            "The founders started a venture in clean energy."
+          ],
+          [
+            "biotech",
+            "/ˈbaɪoʊtek/",
+            "生物科技",
+            "Several biotech firms share the research building."
+          ],
+          [
+            "promising",
+            "/ˈprɑːmɪsɪŋ/",
+            "有希望的",
+            "The first experiment produced promising results."
+          ],
+          [
+            "sustained",
+            "/səˈsteɪnd/",
+            "持续的",
+            "The project needs sustained support to succeed."
+          ]
+        ],
+        "question": "What would convince you that an AI research lab is making progress?",
+        "thoughts": [
+          "A team could show that it runs more useful experiments with the same resources.",
+          "Results that another lab can reproduce would give stronger evidence of lasting progress."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "stories": [
       {
