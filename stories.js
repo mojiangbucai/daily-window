@@ -1,5 +1,208 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-18",
+    "stories": [
+      {
+        "id": "2026-11-18-serbia-student-list",
+        "category": "World Affairs",
+        "region": "Serbia",
+        "date": "2026-11-17",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/serbias-student-list-deputies-take-seats-parliament-after-landmark-election-win-2026-11-17/",
+        "title": "From Student Protests to Parliament in Serbia",
+        "dek": "A student-led movement takes its seats in Belgrade after winning a majority in October’s election.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "塞尔维亚新一届国民议会于 11 月 17 日首次开会。学生主导的竞选名单在 10 月 25 日的选举中拿下 250 席中的 140 席。这次会议是组建新政府的第一步。",
+        "b1": [
+          "On November 17, people gathered outside Serbia’s parliament in Belgrade to welcome a group of new lawmakers. The lawmakers belonged to a movement called the Student List. It won 140 of the 250 seats in the October 25 election. That gave the group more than half the seats and ended the Serbian Progressive Party’s long hold on power.",
+          "The name might make you picture a room full of university students. In fact, student groups helped choose candidates from many kinds of work. Actor Bojan Dimitrijevic, one of the new lawmakers, told a local television station that meetings should make good use of the public’s time and money.",
+          "For the new members, Tuesday was a first day at work. They took an oath, a formal promise made when taking office. On the agenda were choosing the person who runs meetings and starting the process of forming a government. People who cheered them outside can now watch how they work inside."
+        ],
+        "b2": [
+          "The Student List’s first walk into Serbia’s National Assembly was a visible change in who gets to make decisions. Student assemblies helped select people with different professional backgrounds for the electoral list. The movement now has 140 seats out of 250, giving it enough votes for a majority if its members act together.",
+          "That last condition will matter. Thousands of people can join a protest with a shared demand even when they have different ideas about what should happen next. In parliament, lawmakers must turn those ideas into specific proposals, agree on priorities and explain how they intend to carry them out. Reuters reported that the movement has promised to fight corruption by changing how public institutions work. Its members will have to decide what to change first.",
+          "The opening session in Belgrade brought an oath and the start of parliamentary work. Forming a government is a further step. As the new lawmakers settle in, voters can look at how they handle disagreement and whether citizens can follow the decisions being made in their name."
+        ],
+        "vocab": [
+          [
+            "lawmaker",
+            "/ˈlɔːˌmeɪkər/",
+            "立法者；议员",
+            "A lawmaker asked for more time to read the bill."
+          ],
+          [
+            "majority",
+            "/məˈdʒɔːrəti/",
+            "多数；过半数",
+            "The proposal needs a majority to pass."
+          ],
+          [
+            "candidate",
+            "/ˈkændɪdət/",
+            "候选人",
+            "Each candidate spoke for five minutes."
+          ],
+          [
+            "oath",
+            "/oʊθ/",
+            "誓言",
+            "The new mayor took an oath in front of her family."
+          ],
+          [
+            "priority",
+            "/praɪˈɔːrəti/",
+            "优先事项",
+            "Making the buses more reliable is our first priority."
+          ],
+          [
+            "corruption",
+            "/kəˈrʌpʃən/",
+            "腐败",
+            "The investigation uncovered corruption in the department."
+          ]
+        ],
+        "question": "What should a new group of lawmakers do first to earn the public’s trust?",
+        "thoughts": [
+          "Fix one problem people already understand, so voters can judge the result.",
+          "Make budgets, votes and meetings easy to follow from the start."
+        ]
+      },
+      {
+        "id": "2026-11-18-korea-exam-checks",
+        "category": "Society",
+        "region": "South Korea",
+        "date": "2026-11-17",
+        "source": "Associated Press",
+        "sourceUrl": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+        "title": "Why South Korea Will Check Glasses Before an Exam",
+        "dek": "A cheating case involving AI prompted extra checks for the country’s high-stakes university entrance test.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "韩国大学修学能力考试（Suneung）定于 11 月 19 日举行。此前，一名税务师资格考试考生承认用隐藏摄像头、手机和 AI 获取答案，韩国随即宣布加强入场检查。",
+        "b1": [
+          "If you wear glasses to South Korea’s national college entrance exam this Thursday, officials will ask you to put them on your desk first. They plan to check the glasses and cover clothing buttons with stickers. The idea is to stop anyone from bringing in a tiny camera that looks like part of an everyday object.",
+          "The plan comes after a different exam made the news. A man who scored highly on a test for future tax accountants admitted using a small hidden camera, a phone and an AI tool to get answers. The college entrance exam is called the Suneung. The Associated Press reported that more than 550,000 people are expected to take it this year.",
+          "South Korea already makes changes to daily life on exam day. Flights pause during the English listening section, for example, so students can hear the recording clearly. This year, test supervisors have another job. They will have to check for hidden devices while helping nervous students get settled before the test begins."
+        ],
+        "b2": [
+          "An exam supervisor can spot a phone on a desk. A camera built into an ordinary-looking object poses a harder problem. In South Korea, the issue became urgent after Han Won-seok, a top scorer on a national tax accountant exam, admitted he had used a concealed camera and a smartphone to obtain answers from generative AI. His case concerned a professional qualification, but it prompted officials to review safeguards for the national university entrance test.",
+          "For the November 19 exam, authorities say they will add 8,400 supervisors. Alongside checks on glasses and clothing buttons, they plan to send a mobile alert that could reveal phones hidden by test takers. The plan uses a system normally reserved for emergencies and therefore reaches people far beyond the exam halls.",
+          "Officials are trying to make sure scores reflect what candidates can do under the same conditions. The response also raises a practical question about how far security checks should go. A good rule has to work in hundreds of busy buildings and leave room for students who need ordinary glasses simply to read the paper."
+        ],
+        "vocab": [
+          [
+            "entrance exam",
+            "/ˈɛntrəns ɪɡˌzæm/",
+            "入学考试",
+            "She took an entrance exam in June."
+          ],
+          [
+            "supervisor",
+            "/ˈsuːpərˌvaɪzər/",
+            "监督员；监考人员",
+            "Ask a supervisor if your computer stops working."
+          ],
+          [
+            "concealed",
+            "/kənˈsiːld/",
+            "隐藏的",
+            "The key was concealed beneath a loose tile."
+          ],
+          [
+            "qualification",
+            "/ˌkwɑːlɪfɪˈkeɪʃən/",
+            "资格；资历",
+            "This position requires a teaching qualification."
+          ],
+          [
+            "safeguard",
+            "/ˈseɪfˌɡɑːrd/",
+            "保护措施",
+            "The school introduced a safeguard to protect student records."
+          ],
+          [
+            "alert",
+            "/əˈlɝːt/",
+            "警报；提醒",
+            "My phone received a flood alert."
+          ]
+        ],
+        "question": "How would you keep an exam fair if some devices are hard to see?",
+        "thoughts": [
+          "Apply simple checks to everyone so the rules are predictable.",
+          "Focus checks on real risks and make clear allowances for everyday needs."
+        ]
+      },
+      {
+        "id": "2026-11-18-rio-art-and-memory",
+        "category": "Culture",
+        "region": "Brazil",
+        "date": "2026-11-16",
+        "source": "Fundação Getulio Vargas",
+        "sourceUrl": "https://portal.fgv.br/en/noticias/afro-brazilian-art-and-literature-are-focus-event-rio-art-museum",
+        "title": "How a Piece of Fabric Can Carry a Story",
+        "dek": "A Rio museum program brings together a textile designer and a novelist to explore Afro-Brazilian memory.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "巴西瓦加斯基金会公布了 11 月 17 日在里约艺术博物馆举办的免费活动议程。纺织设计师戈雅·洛佩斯与小说家伊塔马尔·维埃拉·儒尼奥尔将从各自的创作谈起，讨论非裔巴西人的生活与记忆。",
+        "b1": [
+          "A story can begin with a book, but it can also begin with a piece of cloth. That idea connects two guests on the program of a November 17 event at the Rio Art Museum. One is Goya Lopes, who designs fabrics and makes prints. The other is Itamar Vieira Junior, a Brazilian novelist.",
+          "Lopes uses cloth to explore memories and stories passed down through generations. Think of a piece of fabric that reminds you of a person or a place. The pattern might bring back a memory before you have even found the words for it. In Vieira Junior’s books, words bring readers into the lives of Black people in the Brazilian countryside. His characters’ ties to the land are an important part of those stories.",
+          "The organizer, Fundação Getulio Vargas, announced that admission would be free, with limited seats. The program also included plans for a discussion about how museums collect and explain pieces of art. Together, the two parts ask what happens when an object or a story from everyday life enters a public collection."
+        ],
+        "b2": [
+          "What can a museum learn from a novelist, and what can a writer learn from a textile designer? A program announced by Fundação Getulio Vargas for November 17 put those questions side by side at the Rio Art Museum. The event paired Goya Lopes and Itamar Vieira Junior for a conversation about making work that draws on Afro-Brazilian history and experience.",
+          "Lopes works with materials that people can wear and touch. A printed design can travel beyond a gallery and gather new associations as people use it. Vieira Junior works through characters, landscapes and the slow unfolding of a novel. His writing invites readers to spend time with Black communities in rural Brazil and consider what it means to live and work on the land.",
+          "The organizers also planned a panel on museum collections and a journal launch featuring material from earlier discussions. These give the project an afterlife. A conversation disappears as people leave a room, but an object in a collection or an interview in print can bring some of its questions to someone who never attended."
+        ],
+        "vocab": [
+          [
+            "textile",
+            "/ˈtɛkstaɪl/",
+            "纺织品；织物",
+            "The market sells textiles made by local artists."
+          ],
+          [
+            "generation",
+            "/ˌdʒɛnəˈreɪʃən/",
+            "一代人；世代",
+            "Three generations of her family live in the same town."
+          ],
+          [
+            "rural",
+            "/ˈrʊrəl/",
+            "乡村的",
+            "The library sends books to several rural schools."
+          ],
+          [
+            "collection",
+            "/kəˈlɛkʃən/",
+            "收藏品；馆藏",
+            "The museum has a collection of family photographs."
+          ],
+          [
+            "association",
+            "/əˌsoʊsiˈeɪʃən/",
+            "联想；联系",
+            "That song has strong associations with summer for me."
+          ],
+          [
+            "unfold",
+            "/ʌnˈfoʊld/",
+            "逐渐展开",
+            "The story unfolds over a single afternoon."
+          ]
+        ],
+        "question": "If you wanted to share one family memory in a museum, what would you put on display?",
+        "thoughts": [
+          "An everyday object could bring the memory to life through its shape and texture.",
+          "A short recorded story could let visitors hear the person who lived it."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "stories": [
       {
