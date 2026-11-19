@@ -1,5 +1,210 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-19",
+    "stories": [
+      {
+        "id": "2026-11-19-france-poll",
+        "category": "World Affairs",
+        "region": "France",
+        "date": "2026-11-18",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/le-pen-melenchon-ahead-french-presidential-race-opinion-poll-shows-2026-11-18/",
+        "title": "France’s Election Race Comes Into Focus",
+        "dek": "A new survey puts Marine Le Pen and Jean-Luc Mélenchon ahead, months before voters choose a president.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "路透社 11 月 18 日报道 Ifop 最新民调。不同候选人组合下，勒庞支持率为 32%—36%，梅朗雄为 17%—19.5%。这是受访者当下的投票意向。补充原始资料（Ifop，2026 年 11 月） https://www.ifopgroup.com/wp-content/uploads/2026/11/122919-petit-dejeuner-electoral-intentions-de-vote-et-determinants-du-vote.pdf",
+        "b1": [
+          "A new opinion poll has given France an early picture of its next presidential election. Reuters reported on November 18 that Marine Le Pen, a leader on the far right, and Jean-Luc Mélenchon, a leader on the hard left, were ahead of the other candidates tested. The election itself is still months away.",
+          "Ifop asked people about different possible lists of candidates. Le Pen received between 32 and 36 percent of voting intentions, while Mélenchon received between 17 and 19.5 percent. The numbers changed with the list people saw. That matters because sharing voters with several similar candidates can affect a person's place in a race.",
+          "France uses two rounds when no candidate wins more than half the votes in the first round. The leading two then compete again. For a reader following the news from abroad, this makes the order especially interesting. A candidate needs enough support to reach the final contest before asking for a wider group of voters' support."
+        ],
+        "b2": [
+          "The latest Ifop survey suggests that France's political centre faces a difficult presidential campaign. Across the candidate combinations reported by Reuters on November 18, Marine Le Pen and Jean-Luc Mélenchon occupied the leading positions. Their contrasting politics could give voters a sharply divided choice if that pattern survives until the election.",
+          "The survey was conducted online from November 13 to 16. Its range of results deserves attention. Le Pen's support varied from 32 to 36 percent, depending on the candidates included. Mélenchon's ranged from 17 to 19.5 percent. These are alternative scenarios within a survey, so choosing the highest number for every candidate would produce a misleading picture.",
+          "Reading election coverage involves more than following who is ahead. It helps to ask when the interviews happened, which names were offered, and how the voting system turns support into a result. A two-round contest also gives people a chance to change their choice between rounds. As campaigning develops, the same voter may face a different decision with a shorter ballot."
+        ],
+        "vocab": [
+          [
+            "poll",
+            "/poʊl/",
+            "民意调查",
+            "The poll asked people about their daily journeys."
+          ],
+          [
+            "candidate",
+            "/ˈkændɪdət/",
+            "候选人",
+            "Each candidate explained her plans."
+          ],
+          [
+            "runoff",
+            "/ˈrʌnɔːf/",
+            "第二轮决选",
+            "The two leading candidates entered a runoff."
+          ],
+          [
+            "scenario",
+            "/səˈnɛrioʊ/",
+            "假设情境",
+            "The team tested several possible scenarios."
+          ],
+          [
+            "intention",
+            "/ɪnˈtɛnʃən/",
+            "意向",
+            "He announced his intention to stand for election."
+          ],
+          [
+            "ballot",
+            "/ˈbælət/",
+            "选票；投票",
+            "She read every name on the ballot."
+          ]
+        ],
+        "question": "How much attention would you give to an election poll published several months before voting?",
+        "thoughts": [
+          "Early polls can reveal which issues and candidates deserve closer attention.",
+          "I would wait for several surveys and more detailed policy debates before judging the race."
+        ]
+      },
+      {
+        "id": "2026-11-19-nvidia-china-shipments",
+        "category": "Technology & Business",
+        "region": "China · United States",
+        "date": "2026-11-18",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
+        "title": "Nvidia Pauses a Channel for AI Chips to China",
+        "dek": "The company says licensed Hopper products are no longer being shipped, while the duration of the halt remains unclear.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "路透社 11 月 18 日报道，英伟达临时 CEO 科莱特·克雷斯表示，公司已停止向中国发运获许可的 Hopper 数据中心产品，未说明持续多久。公司财报（11 月 17 日）也未在下季度展望中计入中国数据中心计算收入。 https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+        "b1": [
+          "An AI service may look like a simple chat box, but someone needs powerful computers to run it. That is why news about computer chips can matter far beyond a factory. Reuters reported on November 18 that Nvidia had stopped sending licensed Hopper data centre products to China. The company did not say how long the stop would last.",
+          "Nvidia's own financial report provides another part of the picture. Released on November 17, it gave total sales of 115.8 billion dollars for the quarter that ended on October 25. For its next quarter, the company left Chinese data centre computing sales out of its forecast.",
+          "A forecast is a company's estimate of what lies ahead. Leaving a possible sale out makes the estimate easier to understand when that sale is uncertain. For companies building AI services, access to equipment is one of many things to plan for. They also need people, electricity and somewhere to put the machines. Even a useful idea needs practical support before it can reach customers."
+        ],
+        "b2": [
+          "Nvidia's latest results show how a growing global business can face uncertainty in an individual market. The chipmaker reported quarterly revenue of 115.8 billion dollars, more than double its level a year earlier. Yet its outlook for the following quarter assumes no revenue from data centre computing in China, according to its November 17 release.",
+          "On the earnings call, interim chief executive Colette Kress also said the company was no longer shipping licensed Hopper data centre products to China. Reuters reported the statement the next day. The reason for the halt and its likely duration were left unexplained, making it difficult to estimate when the channel might reopen.",
+          "For readers, the story is a chance to distinguish reported results from forward expectations. Past revenue measures business already recorded. Guidance sets out assumptions about a coming period and can change as circumstances develop. For an AI business making purchasing decisions, that uncertainty could mean considering a different supplier, adjusting a timetable or waiting for clearer information. Each option brings a trade-off between getting started quickly and committing resources to an uncertain plan."
+        ],
+        "vocab": [
+          [
+            "shipment",
+            "/ˈʃɪpmənt/",
+            "发货；货运批次",
+            "The shipment arrived on Monday."
+          ],
+          [
+            "revenue",
+            "/ˈrɛvənuː/",
+            "营业收入",
+            "The café's revenue increased over the summer."
+          ],
+          [
+            "forecast",
+            "/ˈfɔːrkæst/",
+            "预测",
+            "The company revised its sales forecast."
+          ],
+          [
+            "licensed",
+            "/ˈlaɪsənst/",
+            "获许可的",
+            "Only licensed operators may provide this service."
+          ],
+          [
+            "assumption",
+            "/əˈsʌmpʃən/",
+            "假设；预设条件",
+            "Our plan depends on one important assumption."
+          ],
+          [
+            "supplier",
+            "/səˈplaɪər/",
+            "供应商",
+            "The shop found a local supplier."
+          ]
+        ],
+        "question": "If important equipment became difficult to obtain, would you wait or change your plan?",
+        "thoughts": [
+          "Waiting may protect a project from the cost of switching to unfamiliar equipment.",
+          "Changing suppliers may let work continue and reduce dependence on one company."
+        ]
+      },
+      {
+        "id": "2026-11-19-little-africa-plaza",
+        "category": "Culture",
+        "region": "United States · African diaspora",
+        "date": "2026-11-18",
+        "source": "The Oracle · Hamline University",
+        "sourceUrl": "https://hamlineoracle.com/16544/news-showcase/community-center-supports-african-businesses-and-artists/",
+        "title": "A Grocery Shop, a Gallery and a Place to Belong",
+        "dek": "In Saint Paul, Little Africa Plaza connects everyday shopping with opportunities for artists and students.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "汉姆莱大学学生报《The Oracle》11 月 18 日实地报道明尼苏达州圣保罗的 Little Africa Plaza。空间把食品店、艺术展览和社区服务结合起来，支持非洲移民及新兴艺术家。机构补充资料（页面未标发布日期） https://www.aeds-mn.org/museum 和 https://www.aeds-mn.org/little-africa-plaza",
+        "b1": [
+          "You might go into Little Africa Plaza to buy lunch and leave with a new artist's name in your mind. The building in Saint Paul, Minnesota, has a grocery shop and café called Mama's Market as well as a museum and art space. A November 18 report in Hamline University's student newspaper explored how the place brings different activities together.",
+          "The organization behind it, African Economic Development Solutions, supports African immigrant communities. Its museum opened in August 2025 and offers changing exhibitions. According to the student newspaper, artists selling work there keep all the proceeds from those sales.",
+          "University students also take part. Design students have worked on the organization's logo, while another class is interviewing artists for a booklet. These projects give students a real audience for their work.",
+          "For a visitor, shopping and looking at art can become part of the same afternoon. Imagine meeting someone whose painting you have just seen, then talking over a meal. A small shared space can make that meeting possible."
+        ],
+        "b2": [
+          "A museum can introduce people to a culture, but a neighbourhood space can also help them build a life together. Little Africa Plaza in Saint Paul combines food shopping, art and business support under one roof. Its operator, African Economic Development Solutions, describes the project as a place for African-owned enterprises to develop alongside community activities.",
+          "The building once served as a car showroom. Today it contains independent shops and a museum whose exhibitions change over time. The combination gives visitors several reasons to enter, including ordinary tasks that might bring them back regularly.",
+          "A November 18 report by The Oracle adds a university connection to the story. Hamline students have contributed design work and feedback on the organization's website. A communications class is now preparing artist profiles for a booklet. The newspaper interviewed teachers and a staff member about how these projects offer useful experience while meeting the organization's needs.",
+          "The example invites a practical thought about cultural participation. Someone who feels unsure about entering a gallery might feel comfortable walking into a familiar local shop. Putting both activities nearby could create an easy first encounter with an artist's work."
+        ],
+        "vocab": [
+          [
+            "proceeds",
+            "/ˈproʊsiːdz/",
+            "销售所得",
+            "The proceeds from the sale paid for new books."
+          ],
+          [
+            "immigrant",
+            "/ˈɪmɪɡrənt/",
+            "移民",
+            "The course supports immigrant families."
+          ],
+          [
+            "exhibition",
+            "/ˌɛksɪˈbɪʃən/",
+            "展览",
+            "Her photographs appeared in a local exhibition."
+          ],
+          [
+            "enterprise",
+            "/ˈɛntərpraɪz/",
+            "企业；事业",
+            "They started a small food enterprise."
+          ],
+          [
+            "profile",
+            "/ˈproʊfaɪl/",
+            "人物介绍；简介",
+            "The magazine published a profile of the painter."
+          ],
+          [
+            "encounter",
+            "/ɪnˈkaʊntər/",
+            "偶遇；接触",
+            "My first encounter with jazz happened at school."
+          ]
+        ],
+        "question": "What would make you feel comfortable visiting a new cultural space?",
+        "thoughts": [
+          "A familiar activity, such as food shopping, could make the first visit easier.",
+          "A personal invitation from an artist or student could give me a reason to explore."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "stories": [
       {
