@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-20",
+    "stories": [
+      {
+        "id": "2026-11-20-un-leadership",
+        "category": "World Affairs",
+        "region": "Global",
+        "date": "2026-11-19",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/un-could-soon-be-leaderless-race-succeed-guterres-stalls-2026-11-19/",
+        "title": "Who Will Take the UN’s Top Job?",
+        "dek": "A delayed choice raises questions about how countries agree on the next secretary-general.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "路透社 11 月 19 日报道，联合国秘书长接班人仍未选定。现任秘书长古特雷斯的任期于 12 月 31 日结束。任命程序补充资料为联合国图书馆 Ask DAG，更新于 11 月 10 日。 https://ask.un.org/faq/97048",
+        "b1": [
+          "The United Nations is still looking for its next secretary-general. Reuters reported on November 19 that countries had not agreed on a successor to António Guterres, whose term ends on December 31. Choosing someone takes agreement between governments with very different interests.",
+          "How does the choice work? According to the UN's own explanation, the Security Council first recommends a candidate. The General Assembly then makes the appointment. This means the job is filled through a process involving governments, rather than a public election in which people around the world cast votes.",
+          "The secretary-general heads the UN's Secretariat and serves as its chief administrative officer. Think about what happens when any large organization changes leaders. The person taking over needs to learn about the staff, understand ongoing work and prepare for difficult decisions. A clear handover gives that person time to get ready.",
+          "For readers, one useful detail is the date. Guterres remains in office now. The concern is about arranging the next leadership period before his current term finishes."
+        ],
+        "b2": [
+          "The delayed search for a successor to António Guterres puts a familiar organizational problem on an international stage. Reuters reported that the choice remained unresolved on November 19. The UN is approaching a leadership transition at the end of December, while the process still requires agreement among governments.",
+          "The formal route is clear. Under the UN Charter, the General Assembly appoints the secretary-general after a recommendation from the Security Council. The UN library explains that much of the negotiating takes place away from public meetings. The official documents therefore tend to record the result more fully than the bargaining that produced it.",
+          "This creates a challenge for anyone trying to follow the contest. A candidate's public qualifications are only one part of the picture. Governments also need to accept that person in a role whose administrative responsibilities reach across a complex organization.",
+          "Imagine joining a large institution with a full calendar of work already under way. Time to prepare would be valuable. That practical need helps explain why a slow appointment process can matter well before the outgoing leader's final day."
+        ],
+        "vocab": [
+          [
+            "successor",
+            "/səkˈsɛsər/",
+            "继任者",
+            "The director met her successor before leaving."
+          ],
+          [
+            "recommend",
+            "/ˌrɛkəˈmɛnd/",
+            "推荐",
+            "The committee will recommend one candidate."
+          ],
+          [
+            "appointment",
+            "/əˈpɔɪntmənt/",
+            "任命",
+            "Her appointment was announced on Monday."
+          ],
+          [
+            "handover",
+            "/ˈhændoʊvər/",
+            "交接",
+            "We prepared notes for the handover."
+          ],
+          [
+            "negotiate",
+            "/nɪˈɡoʊʃieɪt/",
+            "谈判；协商",
+            "The teams negotiated a new timetable."
+          ],
+          [
+            "administrative",
+            "/ədˈmɪnɪstrətɪv/",
+            "行政的",
+            "She manages the office's administrative work."
+          ]
+        ],
+        "question": "What qualities would you look for in someone who must work with governments that disagree?",
+        "thoughts": [
+          "A patient listener may help different sides find enough common ground.",
+          "A clear decision-maker may keep essential work moving when talks become difficult."
+        ]
+      },
+      {
+        "id": "2026-11-20-brazil-raoni-land",
+        "category": "Society",
+        "region": "Brazil",
+        "date": "2026-11-19",
+        "source": "Agência Gov · Planalto",
+        "sourceUrl": "https://agenciagov.ebc.com.br/noticias/202611/lula-assina-portaria-declaratoria-da-terra-indigena-kapot-nhinore-territorio-do-cacique-raoni",
+        "title": "A Step Forward for an Indigenous Homeland",
+        "dek": "Brazil advances official recognition of Kapôt Nhĩnore, the ancestral territory associated with Chief Raoni.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "巴西总统卢拉 11 月 19 日签署 Kapôt Nhĩnore 原住民土地的宣告性命令。政府资料称，这片位于马托格罗索州与帕拉州交界的土地约 36.2 万公顷，签署是正式认定程序中的又一步。",
+        "b1": [
+          "A document signed in Brazil on November 19 concerns something much larger than paper. President Luiz Inácio Lula da Silva signed an order recognizing the boundaries of Kapôt Nhĩnore, an Indigenous territory in the Amazon region. The government's report described the decision as another step in the process of officially recognizing the land.",
+          "The territory is connected to Raoni Metuktire, an Indigenous leader who has spent decades defending his people's homeland. For a community, a place can hold family memories, burial grounds and knowledge learned from earlier generations. A map may show its borders, but it cannot show everything that makes the place important.",
+          "Why can an official boundary matter? Imagine trying to protect a home when other people disagree about where it begins and ends. Having a boundary recognized can provide a clearer starting point for decisions about the area.",
+          "The next question is how recognition works in daily life. People following the story can look for further steps in the process and how the community's rights are put into practice."
+        ],
+        "b2": [
+          "Brazil's decision on Kapôt Nhĩnore shows how a formal administrative act can carry personal and historical meaning. On November 19, President Luiz Inácio Lula da Silva signed a declaratory order for the Indigenous territory associated with Chief Raoni Metuktire. The government described it as a further stage in recognizing the territory, following a long-running process.",
+          "The area covers approximately 362,000 hectares across the boundary between Mato Grosso and Pará. According to the government's account, it includes places of cultural importance to the Mẽbêngôkre, also known as Kayapó. The connection between land and community therefore involves more than a question of where people can live.",
+          "A useful way to think about that connection is to consider knowledge tied to particular places. A river, a path or a burial ground may help people explain their past to a younger generation. Losing access could make that teaching more difficult.",
+          "Recognition on paper is one part of the story. Following what happens afterwards will help readers assess how a government decision affects the people whose lives and memories are attached to the land."
+        ],
+        "vocab": [
+          [
+            "Indigenous",
+            "/ɪnˈdɪdʒənəs/",
+            "原住民的；本土的",
+            "The museum worked with Indigenous artists."
+          ],
+          [
+            "territory",
+            "/ˈtɛrətɔːri/",
+            "领土；地域",
+            "The map shows the territory's rivers."
+          ],
+          [
+            "boundary",
+            "/ˈbaʊndəri/",
+            "边界",
+            "A small stream marks the boundary."
+          ],
+          [
+            "ancestral",
+            "/ænˈsɛstrəl/",
+            "祖先的；世代传承的",
+            "She visited her family's ancestral home."
+          ],
+          [
+            "recognition",
+            "/ˌrɛkəɡˈnɪʃən/",
+            "承认；认定",
+            "The group sought official recognition."
+          ],
+          [
+            "hectare",
+            "/ˈhɛktɛr/",
+            "公顷",
+            "The farm covers twenty hectares."
+          ]
+        ],
+        "question": "How could a community explain the value of its homeland to people who have never been there?",
+        "thoughts": [
+          "Personal stories and local names could show how memories are tied to the landscape.",
+          "Community-led maps could connect those stories to the places that need protection."
+        ]
+      },
+      {
+        "id": "2026-11-20-singapore-hidden-stories",
+        "category": "Culture",
+        "region": "Singapore",
+        "date": "2026-11-19",
+        "source": "Tabla! · SPH Media",
+        "sourceUrl": "https://www.tabla.com.sg/community/events/uncovering-stories-remain-hidden-singapore-writers-festival-2026",
+        "title": "The Stories You Might Walk Past",
+        "dek": "Singapore’s writers festival takes readers into Little India to explore murals and overlooked memories.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "新加坡《Tabla!》11 月 19 日回顾作家节的一场小印度壁画导览。作家节以“Hidden in Plain Sight”为主题，活动持续至 11 月 22 日。日期与多语种安排另见 Arts Republic 活动资料（未标发布日期）。 https://artsrepublic.sg/events/2026/11/singapore-writers-festival-2026",
+        "b1": [
+          "You can walk past a story every day without noticing it. At this year's Singapore Writers Festival, a group took a different approach. They went for a walk through Little India and looked closely at its murals. A November 19 report in Tabla! described how the tour connected art on walls with stories about the neighbourhood.",
+          "The festival's theme is Hidden in Plain Sight. It invites people to notice things that are visible but easy to overlook. The wider programme runs from November 13 to 22 and includes activities in English, Chinese, Malay and Tamil.",
+          "A mural gives you somewhere to begin. You might first see a bright colour or a familiar object. A guide can then draw attention to a small detail and explain why it is there. The same wall can look different once you know more about it.",
+          "You could try a similar exercise on your next short walk. Choose one sign, building or picture you normally pass. What would you like to ask the person who made it?"
+        ],
+        "b2": [
+          "A literature festival usually brings to mind writers speaking on a stage. In Singapore, a walk through Little India offered another way to encounter stories. Tabla!'s November 19 account followed an art tour that connected murals with neighbourhood memories, making the surrounding streets part of the reading experience.",
+          "The festival, which continues through November 22, uses the theme Hidden in Plain Sight. Its programme spans four languages and includes literary translation alongside other forms of storytelling. That range offers several ways to consider how the same place can mean different things to different people.",
+          "On a street, attention is often divided. We may be looking for an address or hurrying to meet someone. Even a large painting can become part of the background. Pausing beside it changes the task from finding our way to asking what we are seeing.",
+          "For an English learner, that shift could also become a small writing exercise. Describe a detail before searching for its history, then revise the description after learning more. Comparing the two versions may reveal how context changes both understanding and the words we choose."
+        ],
+        "vocab": [
+          [
+            "mural",
+            "/ˈmjʊrəl/",
+            "壁画",
+            "The mural covers the side of the library."
+          ],
+          [
+            "overlook",
+            "/ˌoʊvərˈlʊk/",
+            "忽略",
+            "I overlooked a small detail in the picture."
+          ],
+          [
+            "neighbourhood",
+            "/ˈneɪbərhʊd/",
+            "街区；社区",
+            "We explored the neighbourhood on foot."
+          ],
+          [
+            "encounter",
+            "/ɪnˈkaʊntər/",
+            "遇到；接触",
+            "Readers encounter several different voices in the book."
+          ],
+          [
+            "translation",
+            "/trænsˈleɪʃən/",
+            "翻译；译文",
+            "The translation includes a short introduction."
+          ],
+          [
+            "revise",
+            "/rɪˈvaɪz/",
+            "修改；修订",
+            "She revised her description after visiting the place."
+          ]
+        ],
+        "question": "What overlooked place near you would you include in a storytelling walk?",
+        "thoughts": [
+          "An everyday market could reveal stories about the people who work there.",
+          "A quiet street with old signs might show how the neighbourhood has changed."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "stories": [
       {
