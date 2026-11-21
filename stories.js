@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-21",
+    "stories": [
+      {
+        "id": "2026-11-21-eu-uk-youth",
+        "category": "World Affairs",
+        "region": "United Kingdom · European Union",
+        "date": "2026-11-20",
+        "source": "Council of the European Union · Reuters",
+        "sourceUrl": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/",
+        "title": "A New Route for Young Britons and Europeans",
+        "dek": "Leaders conclude youth exchange negotiations, while university fees still need a separate agreement.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "英欧领导人 11 月 20 日在布鲁塞尔宣布完成青年体验计划谈判。联合声明目标是最迟于 2030 年 1 月提供相关机会，学费另行谈判。来源另含路透社 11 月 20 日报道 https://www.reuters.com/world/uk/what-eu-uk-have-agreed-summit-2026-11-20/ 及当日联合声明 https://assets.publishing.service.gov.uk/media/6b003dbde43662b58d107613/EU-UK_Summit_Joint_Statement_2026.docx.pdf",
+        "b1": [
+          "A few years in another country can mean much more than a holiday. Young people might work, volunteer, study or simply spend time learning how others live. At their November 20 summit in Brussels, British and European Union leaders announced progress on a plan to make those experiences easier.",
+          "The two sides have finished negotiating a Youth Experience Scheme. Their joint statement says it would let 100,000 young people from each side stay in the other's territory for up to three years. They aim to make the opportunities available by January 2030 at the latest. Practical arrangements still have to follow the agreement.",
+          "Study costs remain an important question. The leaders agreed to continue negotiations on university tuition fees and aim to finish those talks within six months.",
+          "For someone planning a year abroad, permission to stay is one part of the decision. Rent, travel and course fees also matter. The plan therefore offers an interesting question for young Europeans: what would make an overseas experience possible for people with different family budgets?"
+        ],
+        "b2": [
+          "The latest EU-UK summit turned a diplomatic relationship into a set of decisions with consequences for younger people. Meeting in Brussels on November 20, leaders welcomed the conclusion of negotiations on a Youth Experience Scheme. The plan covers work, study, volunteering, au pairing and travel, with stays lasting up to three years.",
+          "The timetable is worth reading carefully. In their joint statement, the two sides aim to apply the agreement by 2028 at the latest and to ensure young people can use its opportunities no later than January 2030. Announcing the result of negotiations is therefore a stage in a longer process of implementation.",
+          "University tuition is a separate issue. The leaders set themselves six months to finish negotiating an agreement on fees for students crossing between the UK and EU. That unresolved cost could influence which opportunities people eventually choose.",
+          "The broader question is how access works in practice. A formal route can open a door, but taking it may require savings, clear information and support from an employer or university. Those details will help determine how widely the scheme's benefits are shared."
+        ],
+        "vocab": [
+          [
+            "mobility",
+            "/moʊˈbɪləti/",
+            "流动；跨境交流",
+            "The programme supports student mobility."
+          ],
+          [
+            "tuition",
+            "/tuˈɪʃən/",
+            "学费；教学",
+            "Her scholarship covers tuition."
+          ],
+          [
+            "territory",
+            "/ˈtɛrətɔːri/",
+            "辖区；领土",
+            "The agreement applies in both territories."
+          ],
+          [
+            "implementation",
+            "/ˌɪmpləmɛnˈteɪʃən/",
+            "实施",
+            "Implementation will take several months."
+          ],
+          [
+            "volunteer",
+            "/ˌvɑːlənˈtɪr/",
+            "做志愿者",
+            "He hopes to volunteer at a local library."
+          ],
+          [
+            "budget",
+            "/ˈbʌdʒɪt/",
+            "预算",
+            "We planned the trip on a small budget."
+          ]
+        ],
+        "question": "What support would make a year abroad accessible to more young people?",
+        "thoughts": [
+          "Help with living costs could make the greatest difference for people with limited savings.",
+          "Clear information and trusted work placements could help more people take the first step."
+        ]
+      },
+      {
+        "id": "2026-11-21-nigeria-mental-health-bill",
+        "category": "Society",
+        "region": "Nigeria",
+        "date": "2026-11-19",
+        "source": "Reuters",
+        "sourceUrl": "https://www.reuters.com/world/africa/nigerias-tinubu-asks-parliament-decriminalise-attempted-suicide-2026-11-19/",
+        "title": "Nigeria Debates a Change in Mental Health Policy",
+        "dek": "A presidential proposal would remove criminal penalties for attempted suicide and provide support.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "路透社 11 月 19 日报道，尼日利亚总统提请议会将自杀未遂除罪化并提供支持。此为修法提案，尚待审议。PLAC 11 月 17—19 日立法周报记载，该法案已转交安排后续程序。 https://placng.org/i/wp-content/uploads/2026/11/PLAC-Weekly-Legislative-Digest-17-19-November-2026.pdf",
+        "b1": [
+          "Nigeria's President Bola Tinubu has asked parliament to change how the law responds to people who survive a suicide attempt. Reuters reported the proposal on November 19. It would remove criminal penalties and provide care and support. Lawmakers still need to consider it.",
+          "A legislative update from the Policy and Legal Advocacy Centre explains where the proposal stands. The president's mental health bill was referred for the scheduling of its first and second readings. These readings are steps in parliament's work on a bill before it can become law.",
+          "The news raises a wider question about public services. If a country changes its rules, people also need to know where they can find the services promised by those rules. Staff need clear responsibilities, and communities need understandable information.",
+          "Following this story will involve watching both decisions and delivery. The next parliamentary stages will show whether the proposal advances. After that, any new arrangements would need to connect a person's need for support with the people and resources able to provide it."
+        ],
+        "b2": [
+          "A proposed change in Nigeria asks lawmakers to reconsider the relationship between criminal law and mental health care. President Bola Tinubu has sent parliament a measure to decriminalise attempted suicide and provide support for survivors, Reuters reported on November 19. The proposal remains subject to parliamentary consideration.",
+          "The Policy and Legal Advocacy Centre's weekly digest records an early procedural step. It says the presidential mental health bill was referred for scheduling its first and second readings. This distinction matters when following policy news: introducing a bill begins a process whose result is still to be decided.",
+          "The debate also illustrates why changing a law and arranging a service require different kinds of work. Legislation can establish duties or remove penalties. Providing support requires institutions to decide who is responsible, how resources will reach communities and how people will learn about the available services.",
+          "Those practical questions give readers something concrete to follow beyond a headline. As the proposal moves through parliament, its wording, progress and eventual implementation will help show what the change could mean for the people it is intended to support."
+        ],
+        "vocab": [
+          [
+            "proposal",
+            "/prəˈpoʊzəl/",
+            "提案；建议",
+            "The council will discuss the proposal next week."
+          ],
+          [
+            "decriminalise",
+            "/diːˈkrɪmɪnəlaɪz/",
+            "使除罪化",
+            "The bill seeks to decriminalise the act."
+          ],
+          [
+            "penalty",
+            "/ˈpɛnəlti/",
+            "处罚",
+            "The committee reviewed the proposed penalty."
+          ],
+          [
+            "legislation",
+            "/ˌlɛdʒɪsˈleɪʃən/",
+            "立法；法律",
+            "The legislation sets out the agency's duties."
+          ],
+          [
+            "procedural",
+            "/prəˈsiːdʒərəl/",
+            "程序上的",
+            "The meeting began with a procedural discussion."
+          ],
+          [
+            "resource",
+            "/ˈriːsɔːrs/",
+            "资源",
+            "The service needs more staff and resources."
+          ]
+        ],
+        "question": "When a government promises a new public service, what would you want to know about its delivery?",
+        "thoughts": [
+          "I would ask who is responsible and how people can reach the service.",
+          "I would look at staffing, funding and whether the service reaches smaller communities."
+        ]
+      },
+      {
+        "id": "2026-11-21-romania-theatre",
+        "category": "Culture",
+        "region": "Romania",
+        "date": "2026-11-19",
+        "source": "Associated Press",
+        "sourceUrl": "https://apnews.com/article/976c91f5ba9011f7aad5b91bcdc1c096",
+        "title": "A Theatre Stage Opens Beyond Prison Walls",
+        "dek": "A Bucharest festival gives incarcerated performers a public audience and a chance to practise new roles.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "美联社 11 月 19 日报道，罗马尼亚第十五届服刑人员戏剧节汇集七所监狱的 59 名参与者。报道全文转载于 11 月 20 日 https://news.johnwarburton.net/story.php?article_id=16308101 。AGERPRES 的提前活动资料确认了 11 月 17—18 日的安排 https://agerpres.ro/x/2026/11/10/x--1612642",
+        "b1": [
+          "For a short time this week, a theatre in Bucharest gave a group of prison inmates a different place in public life. They became performers with lines to learn, partners to listen to and an audience watching their work. The Associated Press reported on the fifteenth edition of Romania's prison theatre festival on November 19.",
+          "The event brought together 59 people from seven prisons at the Nottara Theatre. Twelve theatre professionals helped develop the productions. The programme included an adaptation of Samuel Beckett's Waiting for Godot as well as other plays.",
+          "Preparing a performance can involve many small responsibilities. One actor must remember when to enter; another must respond at the right moment. If someone loses their place, the group has to keep the scene moving. These are familiar challenges in any theatre company.",
+          "The organizers describe the festival as a way to support people's return to society and challenge stereotypes. A public performance gives audiences a chance to consider the work on stage and meet the people behind it through a shared cultural experience."
+        ],
+        "b2": [
+          "The audience at Bucharest's Nottara Theatre encountered performers they might rarely meet in another setting. Romania's prison theatre festival brought incarcerated participants into a public cultural space, working with theatre professionals on a programme of plays. The event raises a question about what creative work can contribute to social reintegration.",
+          "Associated Press coverage describes a festival that began in 2009 and has continued for fifteen editions. The organizers' advance announcement placed this year's performances on November 17 and 18 and identified seven participating prisons. It also described an accompanying display that included artwork made by inmates.",
+          "A rehearsal creates a particular set of relationships. Participants have to accept direction, respond to one another and continue working through mistakes. The finished performance makes that joint effort visible to people outside the rehearsal room. An audience can judge a scene, a voice or an interpretation as part of a cultural encounter.",
+          "These possibilities help explain the organizers' interest in the project. Assessing its lasting effects would require looking beyond applause to what participants take from the experience and the opportunities available to them afterwards."
+        ],
+        "vocab": [
+          [
+            "inmate",
+            "/ˈɪnmeɪt/",
+            "在押人员；服刑人员",
+            "The programme offers classes to inmates."
+          ],
+          [
+            "rehearsal",
+            "/rɪˈhɝːsəl/",
+            "排练",
+            "The rehearsal began with a short discussion."
+          ],
+          [
+            "reintegration",
+            "/riːˌɪntɪˈɡreɪʃən/",
+            "重新融入",
+            "The project supports social reintegration."
+          ],
+          [
+            "stereotype",
+            "/ˈstɛrioʊtaɪp/",
+            "刻板印象",
+            "The film challenges a common stereotype."
+          ],
+          [
+            "interpretation",
+            "/ɪnˌtɝːprəˈteɪʃən/",
+            "诠释；理解",
+            "Each actor offered a different interpretation of the role."
+          ],
+          [
+            "accompanying",
+            "/əˈkʌmpəniɪŋ/",
+            "伴随的；附带的",
+            "The exhibition includes an accompanying booklet."
+          ]
+        ],
+        "question": "What could an arts project offer people preparing to return to their communities?",
+        "thoughts": [
+          "Working on a shared production could help people practise cooperation and responsibility.",
+          "Meeting audiences could create connections, especially if further opportunities follow the event."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "stories": [
       {
