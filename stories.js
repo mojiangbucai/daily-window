@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-22",
+    "stories": [
+      {
+        "id": "2026-11-22-autonomous-weapons",
+        "category": "World Affairs",
+        "region": "Global · Geneva",
+        "date": "2026-11-21",
+        "source": "Reuters · ICRC",
+        "sourceUrl": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/",
+        "title": "Who Stays in Control When Weapons Make Decisions?",
+        "dek": "Geneva talks end with plans for more discussion, while humanitarian groups press for binding limits.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "路透社 11 月 21 日报道，日内瓦自主武器会议同意继续讨论、争取在 2028 年前推进规则。红十字国际委员会同日表示，会议未能明确启动具有法律约束力条约的立即谈判。 https://www.icrc.org/en/statement/icrc-renews-urgent-call-legally-binding-rules-autonomous-weapons",
+        "b1": [
+          "Should a machine be allowed to choose when to use deadly force? Governments meeting in Geneva have been discussing weapons that can select and attack targets with different levels of independence. Reuters reported on November 21 that the meeting ended with a plan for further talks on rules by 2028.",
+          "The International Committee of the Red Cross wanted a clearer result. In its statement that day, it called again for a binding agreement. It says people must keep control over the use of force. It also wants limits that address the dangers of unpredictable systems.",
+          "The distinction matters. Agreeing to continue a discussion gives countries more time to negotiate. A binding agreement would create legal obligations for the countries that join it. The latest meeting has left that stronger outcome uncertain.",
+          "Behind the formal language is a human question about responsibility. If a person makes an important decision, we can ask what they knew and why they acted. Using a machine adds another set of questions about who understands its behaviour and who remains answerable."
+        ],
+        "b2": [
+          "Talks on autonomous weapons ended in Geneva with agreement to continue working on rules by 2028. The outcome reported by Reuters on November 21 left open whether future measures would be legally binding. For humanitarian organizations, that uncertainty is a central concern as governments consider how much control to give machines over the use of force.",
+          "The International Committee of the Red Cross responded with a renewed call for an enforceable international instrument. Its position distinguishes between systems presenting unacceptable risks, which it wants prohibited, and other autonomous weapons, which it wants restricted. It specifically raises concerns about unpredictability and systems designed to target people directly.",
+          "These proposals turn a broad ethical debate into questions that negotiators would have to define precisely. What makes a system sufficiently predictable? What information must a human operator have before it is used? A shared rule would need language that different governments could interpret and apply consistently.",
+          "The meeting's result shows the distance between identifying a problem and agreeing on obligations. Further discussion could clarify those terms, but a timetable alone leaves the eventual strength of the rules unsettled."
+        ],
+        "vocab": [
+          [
+            "autonomous",
+            "/ɔːˈtɑːnəməs/",
+            "自主运行的",
+            "The autonomous vehicle stopped at the crossing."
+          ],
+          [
+            "oversight",
+            "/ˈoʊvərsaɪt/",
+            "监督",
+            "The project requires independent oversight."
+          ],
+          [
+            "binding",
+            "/ˈbaɪndɪŋ/",
+            "有约束力的",
+            "The two sides signed a binding agreement."
+          ],
+          [
+            "obligation",
+            "/ˌɑːbləˈɡeɪʃən/",
+            "义务",
+            "The contract explains each person's obligations."
+          ],
+          [
+            "unpredictable",
+            "/ˌʌnprɪˈdɪktəbəl/",
+            "不可预测的",
+            "The machine behaved in an unpredictable way."
+          ],
+          [
+            "answerable",
+            "/ˈænsərəbəl/",
+            "须承担责任的",
+            "The committee is answerable to the public."
+          ]
+        ],
+        "question": "What should meaningful human control involve when a machine helps make a serious decision?",
+        "thoughts": [
+          "A person should understand enough to question the recommendation before acting.",
+          "Responsibility should also cover design, testing and the ability to stop the system."
+        ]
+      },
+      {
+        "id": "2026-11-22-lisbon-living-costs",
+        "category": "Society",
+        "region": "Portugal",
+        "date": "2026-11-21",
+        "source": "Reuters · RTP",
+        "sourceUrl": "https://www.reuters.com/world/europe/thousands-march-lisbon-living-costs-fuel-anger-2026-11-21/",
+        "title": "Rain Does Not Stop Lisbon’s Cost-of-Living March",
+        "dek": "Workers and pensioners call attention to wages, housing and the price of everyday necessities.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "里斯本 11 月 21 日举行由 CGTP 工会联合会组织的示威。路透社确认数千人冒雨上街，警方未提供人数估计。葡萄牙公共广播 RTP 同日报道路线和诉求。 https://www.rtp.pt/noticias/pais/trabalhadores-manifestam-se-em-lisboa-por-melhores-salarios-e-pensoes_n1780762",
+        "b1": [
+          "Heavy rain did not empty Lisbon's streets on November 21. Thousands marched through the Portuguese capital to protest about the cost of daily life. Their concerns included low wages, pensions and the difficulty of paying for a home. The march was organized by the trade union federation CGTP.",
+          "Portuguese public broadcaster RTP reported that the route began at Saldanha and went towards Restauradores. It also described calls for access to health care, education and social security. Earlier that morning, two trains carrying demonstrators had left Porto for Lisbon.",
+          "These demands are connected by a household budget. Paying more for rent can leave less for food, transport or an unexpected expense. A pay increase may feel small if essential bills rise at the same time.",
+          "A march brings these private calculations into a public space. People whose jobs and ages differ can ask the government to address problems they share. For someone following from another country, it is worth asking which part of daily spending causes the greatest pressure, and whose experience a national average might miss."
+        ],
+        "b2": [
+          "The November 21 demonstration in Lisbon brought wages, pensions and public services into the same political conversation. Organized by CGTP, the march continued despite poor weather. RTP's reporting also noted participants travelling from Porto, showing that the event drew people from beyond the capital.",
+          "The demands link earnings to the conditions in which people use them. A salary buys a different standard of living depending on housing costs, transport and access to public services. For example, an affordable home far from work could still leave someone facing a costly daily journey. That is one reason discussions of living standards can cover several policy areas at once.",
+          "The protest also invites careful reading of crowd reports. Reuters described thousands taking part and attributed a more general estimate to the organizer; police supplied no figure. Keeping those distinctions helps readers understand who is making each claim.",
+          "What happens after the march will matter to its participants. Following any government response, and the details of the measures proposed, would help show how broad demands are translated into decisions affecting household budgets."
+        ],
+        "vocab": [
+          [
+            "pension",
+            "/ˈpɛnʃən/",
+            "养老金",
+            "Her pension covers most of her monthly bills."
+          ],
+          [
+            "demonstrator",
+            "/ˈdɛmənstreɪtər/",
+            "示威参与者",
+            "The demonstrators carried umbrellas."
+          ],
+          [
+            "necessity",
+            "/nəˈsɛsəti/",
+            "必需品",
+            "Food and heating are basic necessities."
+          ],
+          [
+            "household",
+            "/ˈhaʊshoʊld/",
+            "家庭；住户",
+            "The survey asked about household spending."
+          ],
+          [
+            "attribute",
+            "/əˈtrɪbjuːt/",
+            "注明来源；归于",
+            "The reporter attributed the estimate to the organizer."
+          ],
+          [
+            "affordable",
+            "/əˈfɔːrdəbəl/",
+            "负担得起的",
+            "Students need affordable places to live."
+          ]
+        ],
+        "question": "Which would make the biggest difference to a household under financial pressure?",
+        "thoughts": [
+          "Higher earnings could give people more freedom to decide how to spend.",
+          "Lower housing and transport costs could ease pressure every month."
+        ]
+      },
+      {
+        "id": "2026-11-22-gta-storytelling",
+        "category": "Culture",
+        "region": "United States · United Kingdom · Japan",
+        "date": "2026-11-21",
+        "source": "Reuters · Rockstar Games",
+        "sourceUrl": "https://www.reuters.com/world/europe/how-grand-theft-auto-vis-launch-surpassed-expectations-2026-11-21/",
+        "title": "A Video Game Becomes a Shared Cultural Moment",
+        "dek": "The release of Grand Theft Auto VI offers a way to think about stories that audiences can explore.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "路透社 11 月 21 日报道《GTA VI》发行后的玩家和业界反响，包括日本开发商为员工安排游戏假期。Rockstar 官方资料确认，游戏已于 11 月 19 日登陆 PS5 和 Xbox Series X|S。 https://www.rockstargames.com/VI/out-now",
+        "b1": [
+          "A major story does not always arrive in a book or a cinema. Sometimes it appears on a games console, and the audience holds a controller. Rockstar Games released Grand Theft Auto VI on November 19 for PlayStation 5 and Xbox Series X and S. Reuters reported on the reaction two days later.",
+          "One unusual response came from Japan. Developer Pocketpair gave staff five days off to enjoy the game. The report also described a British player who enjoyed simply driving around its world. For him, exploring the setting was part of the attraction.",
+          "This offers a useful question for anyone interested in stories. In a novel, the writer decides when the reader meets a character or discovers a place. In an interactive world, a player may pause, turn around or spend time looking at something else.",
+          "Think of a fictional street. Music, a shop sign or a passing conversation might help tell you what kind of place it is. Following those details can become a form of reading, even when no page is being turned."
+        ],
+        "b2": [
+          "Grand Theft Auto VI's release has become an international entertainment story, with Reuters examining the response on November 21. Rockstar's official announcement confirms the game launched on November 19 for current PlayStation and Xbox consoles. The event provides an opportunity to consider how interactive storytelling differs from the experience of watching a film.",
+          "A film director can control the order and duration of shots. A game designer may instead build a setting through which players move at different speeds. Someone can follow the main action closely, while another person might stop to observe the surroundings. Those choices affect when details acquire meaning.",
+          "Imagine the same fictional café appearing in both forms. A film might show a brief conversation there before cutting away. A game could let someone return later, notice a different sound or study an object that previously seemed unimportant. The audience's attention becomes part of the structure.",
+          "This perspective makes a large release interesting beyond sales and reviews. It prompts questions about who creates the experience, how much freedom audiences have, and what makes a fictional place memorable enough to revisit."
+        ],
+        "vocab": [
+          [
+            "interactive",
+            "/ˌɪntərˈæktɪv/",
+            "互动的",
+            "The museum has an interactive map."
+          ],
+          [
+            "setting",
+            "/ˈsɛtɪŋ/",
+            "故事背景；场景",
+            "The town is the setting for the novel."
+          ],
+          [
+            "fictional",
+            "/ˈfɪkʃənəl/",
+            "虚构的",
+            "The film takes place in a fictional city."
+          ],
+          [
+            "console",
+            "/ˈkɑːnsoʊl/",
+            "游戏主机",
+            "The game is available on two consoles."
+          ],
+          [
+            "duration",
+            "/duˈreɪʃən/",
+            "持续时间",
+            "The director changed the duration of the scene."
+          ],
+          [
+            "revisit",
+            "/riːˈvɪzɪt/",
+            "重访；重新审视",
+            "I want to revisit the story after reading the interview."
+          ]
+        ],
+        "question": "Would you rather follow a carefully arranged story or explore its world in your own order?",
+        "thoughts": [
+          "A planned sequence can make discoveries and emotional moments more powerful.",
+          "Exploring freely can make the experience feel personal and invite closer attention."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-21",
     "stories": [
       {
