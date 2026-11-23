@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-23",
+    "stories": [
+      {
+        "id": "2026-11-23-cop31-outcome",
+        "category": "World Affairs",
+        "region": "Global · Türkiye",
+        "date": "2026-11-22",
+        "source": "Reuters via GMA News",
+        "sourceUrl": "https://www.gmanetwork.com/news/topstories/world/1010425/cop31-climate-talks-break-down-as-eu-others-reject-deal/story/",
+        "title": "Climate Talks End Without an Overall Deal",
+        "dek": "The Antalya summit closes after countries reject a final political text.",
+        "scene": "climate",
+        "readTime": 4,
+        "background": "路透社 11 月 22 日收官报道确认，COP31 未能通过总体政治协议，会议已结束。本文采用 GMA 当日刊载的完整报道，并与路透社较早消息核对。 https://www.reuters.com/sustainability/cop/cop31-climate-talks-set-collapse-without-political-deal-2026-11-22/",
+        "b1": [
+          "After more than two weeks of meetings, countries at the COP31 climate summit went home without an overall political agreement. The talks in Antalya, Türkiye, ended on November 22. The European Union and other participants rejected the final proposed text, saying it was too weak.",
+          "A draft is a document people are still discussing. At a large meeting, writing one involves finding language that different sides can accept. The summit's president, Murat Kurum, acknowledged that this last draft had not won the necessary agreement.",
+          "The difficulty reflects a practical challenge. Countries arrive with different needs and different ideas about who should act first. Imagine neighbours trying to repair a shared building: they may agree the work matters while disagreeing about the cost, timetable and responsibilities.",
+          "For people following the summit, the final status is important. Negotiations had continued beyond their planned Friday finish, creating uncertainty over the weekend. Sunday's closing session established the outcome. The questions now concern what governments will do next and how they will explain their choices to people at home."
+        ],
+        "b2": [
+          "COP31's closing session in Antalya ended a weekend of uncertainty with confirmation that countries had failed to adopt an overarching political agreement. Reuters reported on November 22 that the European Union and others rejected the final draft prepared under the Turkish and Australian leadership of the summit.",
+          "A political declaration serves as a shared statement of direction. Reaching one requires governments to accept a common text even when their priorities differ. At this summit, successive versions could not bridge those differences. The negotiations had already run beyond their scheduled end before the president acknowledged the lack of consensus.",
+          "The outcome invites a question about how international cooperation is judged. Completing a document offers a visible result, but governments also have to decide whether its substance justifies their support. Rejecting a weak compromise can express a clear position while leaving the collective process without a new statement.",
+          "For readers, the useful next step is to follow concrete decisions after the delegates leave. National policies, budgets and later negotiations will show how governments respond to the gap between the ambitions they describe and the agreements they can reach together."
+        ],
+        "vocab": [
+          [
+            "draft",
+            "/dræft/",
+            "草案",
+            "The committee discussed the first draft."
+          ],
+          [
+            "consensus",
+            "/kənˈsɛnsəs/",
+            "共识",
+            "The group reached a consensus after a long discussion."
+          ],
+          [
+            "overarching",
+            "/ˌoʊvərˈɑːrtʃɪŋ/",
+            "总体的；统领的",
+            "The plan has one overarching goal."
+          ],
+          [
+            "declaration",
+            "/ˌdɛkləˈreɪʃən/",
+            "声明",
+            "Leaders published a joint declaration."
+          ],
+          [
+            "compromise",
+            "/ˈkɑːmprəmaɪz/",
+            "妥协；折中方案",
+            "Both sides accepted the compromise."
+          ],
+          [
+            "delegate",
+            "/ˈdɛlɪɡət/",
+            "代表",
+            "The delegate explained her country's position."
+          ]
+        ],
+        "question": "When countries disagree, how should they judge whether a compromise is worth accepting?",
+        "thoughts": [
+          "A limited agreement may provide a starting point for further cooperation.",
+          "A weak agreement may make the public think more progress has been made than it has."
+        ]
+      },
+      {
+        "id": "2026-11-23-korea-education-resignation",
+        "category": "Society",
+        "region": "South Korea",
+        "date": "2026-11-22",
+        "source": "Yonhap News Agency",
+        "sourceUrl": "https://en.yna.co.kr/view/AEN20261122001052315",
+        "title": "South Korea’s Education Minister Steps Down",
+        "dek": "The president accepts Choi Kyo-jin’s resignation after confusion over last-minute exam rules.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "这是 11 月 18 日高考防作弊报道的后续。韩联社 11 月 22 日更新确认，李在明总统已接受教育部长崔教镇辞职。辞职涉及考试前防作弊措施反复调整所引发的混乱。SBS 当日亦报道最终决定。 https://news.sbs.co.kr/english/article.do?news_id=N1008857936",
+        "b1": [
+          "South Korea's education minister, Choi Kyo-jin, has stepped down after criticism of preparations for the national university entrance exam. President Lee Jae Myung accepted his resignation on November 22, Yonhap reported. The exam had taken place three days earlier.",
+          "Officials had changed rules just before the test because they were worried about cheating with AI and hidden devices. Students faced new instructions about writing tools and clothing buttons. Teachers and test takers said the late changes added to the pressure of an already important day.",
+          "In his statement, Choi took responsibility for failing to prepare properly. The president has asked Prime Minister Han Seong-sook to oversee the follow-up work. The process of choosing a new education minister will continue.",
+          "The news adds a new stage to the exam story. Attention has moved from how students should prepare to how officials managed the preparations. For the students, clear instructions matter: they need time to understand the rules and concentrate on the questions. The next decisions will show how the ministry handles the work that remains after the exam."
+        ],
+        "b2": [
+          "The controversy over South Korea's exam safeguards has led to a ministerial resignation. On November 22, President Lee Jae Myung accepted Education Minister Choi Kyo-jin's departure after repeated changes to anti-cheating measures drew criticism from teachers and students. Yonhap's updated report confirms the resignation was formally approved.",
+          "The ministry had been responding to concerns about AI-assisted cheating. Yet its efforts to protect fairness created another difficulty: rules were altered so close to the College Scholastic Ability Test that candidates had little time to adjust. SBS reported that instructions about personal writing instruments changed until the day before the examination.",
+          "Choi acknowledged responsibility for the disruption. Prime Minister Han Seong-sook has been instructed to oversee follow-up measures, while a successor will be chosen through the usual appointment process.",
+          "The case illustrates a tension in public administration. Officials may need to respond quickly to an emerging risk, but the people affected also need consistent guidance. A resignation identifies political responsibility. The practical test afterwards is whether the institution can review its preparation, explain decisions clearly and manage the remaining admissions work with greater predictability."
+        ],
+        "vocab": [
+          [
+            "resignation",
+            "/ˌrɛzɪɡˈneɪʃən/",
+            "辞职",
+            "The minister submitted her resignation."
+          ],
+          [
+            "safeguard",
+            "/ˈseɪfɡɑːrd/",
+            "保障措施",
+            "The school introduced a new safeguard."
+          ],
+          [
+            "disruption",
+            "/dɪsˈrʌpʃən/",
+            "扰乱；中断",
+            "The rule change caused disruption."
+          ],
+          [
+            "consistent",
+            "/kənˈsɪstənt/",
+            "一致的；稳定的",
+            "Students need consistent guidance."
+          ],
+          [
+            "oversee",
+            "/ˌoʊvərˈsiː/",
+            "监督；统筹",
+            "A new team will oversee the review."
+          ],
+          [
+            "predictability",
+            "/prɪˌdɪktəˈbɪləti/",
+            "可预期性",
+            "A published timetable gives everyone greater predictability."
+          ]
+        ],
+        "question": "How should officials introduce an urgent rule change just before an important public event?",
+        "thoughts": [
+          "Explain the reason early and give everyone one clear set of instructions.",
+          "Check how the change will work for affected people before making it compulsory."
+        ]
+      },
+      {
+        "id": "2026-11-23-dakota-fellowship",
+        "category": "Culture",
+        "region": "United States · Dakota communities",
+        "date": "2026-11-22",
+        "source": "The Circle News",
+        "sourceUrl": "https://thecirclenews.org/new-dakota-youth-fellowship-offers-opportunities-to-share-community-history-and-culture/",
+        "title": "Young Dakota Storytellers Help Shape a Museum",
+        "dek": "A new fellowship pairs community knowledge with archives, research and creative work.",
+        "scene": "health",
+        "readTime": 4,
+        "background": "《The Circle》11 月 22 日介绍明尼苏达州 Dakota Pathways Fellowship。六名达科他社区参与者将获得资料和指导，以创作项目参与历史诠释。项目官方页面列有支持方式及预期成果，页面更新时间为 11 月 4 日。 https://winonahistory.org/participate/dakota-fellowship/",
+        "b1": [
+          "Who gets to tell the history displayed in a museum? A new project in Minnesota is inviting young Dakota adults to help answer that question. The Circle reported on November 22 that the Winona County Historical Society is offering a fellowship for six Dakota participants.",
+          "The fellows will use photographs, recorded memories and other historical materials to develop creative projects. Their work will help produce a small exhibition and educational resources. The historical society is working with the Prairie Island and Lower Sioux Indian communities.",
+          "Each participant will receive 1,500 dollars. The official programme also promises research help, training and covered costs for required community visits. Much of the work can be done remotely, with regular meetings to exchange ideas.",
+          "A family photograph might show a person whose name a museum label has missed. A conversation with an elder might explain why a place matters. Bringing those forms of knowledge together can change how a story is presented. The fellowship gives participants tools to research such questions and space to decide how they want to share what they find."
+        ],
+        "b2": [
+          "A museum's account of the past depends partly on who chooses its questions. The Dakota Pathways Fellowship in southeastern Minnesota brings community members into that interpretive work. A November 22 report in The Circle describes a new opportunity for young Dakota adults to explore history and create material for public learning.",
+          "The Winona County Historical Society's programme offers six fellows access to archival collections and oral histories, along with research assistance. Participants can explore formats such as family trees, artwork and digital storytelling. Monthly knowledge-sharing sessions will connect their independent work with guidance from staff and other researchers.",
+          "The structure addresses some practical barriers to participation. Fellows receive an honorarium of 1,500 dollars, and travel, food and accommodation are covered for required community visits. Most activity is remote, allowing people to work without being at the history centre every day.",
+          "The project also connects research to an audience. Creative work will contribute to a mini-exhibit and educational materials. That creates a meaningful choice for participants: how to retain the complexity of a family or community story while presenting it in a form that unfamiliar visitors can understand."
+        ],
+        "vocab": [
+          [
+            "fellowship",
+            "/ˈfɛloʊʃɪp/",
+            "研习资助项目",
+            "The fellowship supports six young researchers."
+          ],
+          [
+            "archive",
+            "/ˈɑːrkaɪv/",
+            "档案；档案馆",
+            "She found the photograph in a local archive."
+          ],
+          [
+            "oral history",
+            "/ˌɔːrəl ˈhɪstəri/",
+            "口述历史",
+            "The project records oral history interviews."
+          ],
+          [
+            "honorarium",
+            "/ˌɑːnəˈrɛriəm/",
+            "酬金；谢礼",
+            "Each speaker receives a small honorarium."
+          ],
+          [
+            "interpretive",
+            "/ɪnˈtɝːprətɪv/",
+            "解释性的；诠释的",
+            "The museum is developing new interpretive material."
+          ],
+          [
+            "complexity",
+            "/kəmˈplɛksəti/",
+            "复杂性",
+            "The novel captures the complexity of family life."
+          ]
+        ],
+        "question": "How would you help a museum tell a community's story fairly?",
+        "thoughts": [
+          "Invite community members to choose the questions and explain what matters to them.",
+          "Show several kinds of evidence and make room for different memories of the same event."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "stories": [
       {
