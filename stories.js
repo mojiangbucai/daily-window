@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-24",
+    "stories": [
+      {
+        "id": "2026-11-24-huang-returns",
+        "category": "Technology & Society",
+        "region": "United States",
+        "date": "2026-11-23",
+        "source": "NVIDIA Newsroom; Reuters",
+        "sourceUrl": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
+        "title": "Jensen Huang returns to lead Nvidia",
+        "dek": "A sudden leadership reversal raises questions about trust, power and accountability.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "英伟达11月23日宣布黄仁勋复任总裁、CEO及董事。本篇是此前人事风波的重要后续，不代表独立调查已结束。董事会称其回归不构成安全风险，这属于董事会判断。补充报道：Reuters，2026-11-23，https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
+        "b1": [
+          "Jensen Huang is back as the leader of Nvidia. On November 23, the company announced that he would return as president, chief executive and a board member. The decision took effect immediately. An independent investigation will continue, so his return does not mean that every question has been answered.",
+          "This story is about more than one famous business leader. A company's board is a group that oversees important decisions. Its job includes choosing leaders and checking their actions. When a board changes its mind quickly, workers and customers may wonder how it reached the new decision.",
+          "Imagine that your university brings back a club president while a review is still happening. Some students might welcome a familiar leader. Others might ask for a clear explanation first. Both reactions are understandable.",
+          "For readers, the useful distinction is between a decision and a conclusion. Huang's return is a confirmed decision. The investigation's final findings are still a separate matter. Good news reading means keeping those two things apart."
+        ],
+        "b2": [
+          "Nvidia announced on November 23 that Jensen Huang was returning as president, chief executive and a director. The board said it had voted unanimously and expressed confidence in his leadership. It also said the independent investigation would continue. Reuters described the reversal against a background of pressure from President Donald Trump and investors.",
+          "The announcement illustrates a wider governance problem: how should an organisation balance continuity with accountability? A recognisable founder can offer experience and a clear direction. Yet a board also needs enough independence to question powerful individuals, particularly when difficult issues remain unresolved.",
+          "These considerations should not be confused with evidence of wrongdoing. An investigation is a process for establishing facts; it is not itself a finding against someone. Equally, restoring a person's position does not automatically settle the questions under review.",
+          "For employees and the public, transparency matters because trust depends on more than a familiar face. A useful question is whether the company explains its standards and eventually reports meaningful conclusions. The return answers who will lead now; it does not answer everything about the process."
+        ],
+        "vocab": [
+          [
+            "reinstate",
+            "/ˌriːɪnˈsteɪt/",
+            "使复职",
+            "The board voted to reinstate the director."
+          ],
+          [
+            "board",
+            "/bɔːd/",
+            "董事会",
+            "The board reviews major company decisions."
+          ],
+          [
+            "investigation",
+            "/ɪnˌvestɪˈɡeɪʃən/",
+            "调查",
+            "The investigation is still continuing."
+          ],
+          [
+            "accountability",
+            "/əˌkaʊntəˈbɪləti/",
+            "问责；责任制",
+            "Public trust requires accountability."
+          ],
+          [
+            "unanimous",
+            "/juˈnænɪməs/",
+            "一致同意的",
+            "The committee reached a unanimous decision."
+          ],
+          [
+            "transparency",
+            "/trænsˈpærənsi/",
+            "透明度",
+            "Clear explanations improve transparency."
+          ]
+        ],
+        "question": "When a review is unfinished, what should a board explain before bringing a leader back?",
+        "thoughts": [
+          "Continuity can protect staff and customers during uncertainty.",
+          "Waiting for clearer findings may strengthen confidence in the process."
+        ]
+      },
+      {
+        "id": "2026-11-24-zimbabwe-mobile-court",
+        "category": "Society & Everyday Life",
+        "region": "Zimbabwe",
+        "date": "2026-11-23",
+        "source": "Reuters; The Herald",
+        "sourceUrl": "https://www.reuters.com/video/watch/idRW053723112026RP1/",
+        "title": "When the courtroom comes to your neighbourhood",
+        "dek": "A mobile court in Harare brings the justice system closer to residents.",
+        "scene": "health",
+        "readTime": 3,
+        "background": "Reuters于11月23日报道津巴布韦哈拉雷的流动法庭。它是本月已启动项目的跟进报道，并非23日才首次开庭。当地报纸核实了每周轮换安排；全国推广仍是计划。补充来源：The Herald，2026-11-10，https://www.heraldonline.co.zw/first-mobile-court-sits/",
+        "b1": [
+          "Going to court can be difficult even before a hearing begins. People may need money for transport and time away from work. In Harare, Zimbabwe, a mobile courtroom is trying to reduce those difficulties. Reuters reported on the project on November 23.",
+          "The court operates inside a converted truck and visits communities. A local report describes a weekly route serving Southlea Park, Budiriro, Glen Norah and Glen View. Instead of making every person travel to a distant building, the service moves closer to the people who need it.",
+          "Think about the difference this could make to someone caring for children or earning money each day. A shorter journey could mean fewer difficult choices between attending court and meeting daily needs. However, a nearby courtroom still needs fair procedures and reliable staff.",
+          "The project offers a simple idea for public services: location matters. A service can exist on paper but remain hard to use. Bringing it closer may help, although judging its success will require more than counting how many places the truck visits."
+        ],
+        "b2": [
+          "A courtroom usually seems like a fixed place: a building people must travel to. A Reuters report published on November 23 shows a different approach in Harare, Zimbabwe, where a truck has been adapted to hold court hearings. The purpose is to make justice easier to reach and address delays.",
+          "Local reporting provides an important distinction between a working pilot and a national promise. The mobile court has begun serving several Harare communities on a weekly rotation. Expansion across Zimbabwe's provinces by 2030 is an objective, rather than an achievement that has already happened.",
+          "The experiment highlights the practical meaning of access. Legal rights are harder to exercise when attending a hearing requires unaffordable transport or a lost day's earnings. Moving the courtroom may reduce one barrier, but distance is only part of the problem.",
+          "A thoughtful evaluation would also ask whether hearings start reliably, whether people understand the process and whether decisions remain independent. Convenience should support fairness rather than replace it. The broader lesson is that public institutions can rethink where they operate while still being judged by the quality of their service."
+        ],
+        "vocab": [
+          [
+            "courtroom",
+            "/ˈkɔːtruːm/",
+            "法庭；审判室",
+            "The courtroom was close to her home."
+          ],
+          [
+            "hearing",
+            "/ˈhɪərɪŋ/",
+            "庭审；听证",
+            "The hearing will begin in the morning."
+          ],
+          [
+            "access",
+            "/ˈækses/",
+            "获得服务的机会；使用权",
+            "Transport costs can limit access to services."
+          ],
+          [
+            "barrier",
+            "/ˈbæriə/",
+            "障碍",
+            "Distance is a barrier for some residents."
+          ],
+          [
+            "procedure",
+            "/prəˈsiːdʒə/",
+            "程序",
+            "Everyone should understand the procedure."
+          ],
+          [
+            "pilot",
+            "/ˈpaɪlət/",
+            "试点项目",
+            "The pilot will help officials evaluate the idea."
+          ]
+        ],
+        "question": "Which public service in your community would benefit most from travelling to people?",
+        "thoughts": [
+          "Mobile services can help people who struggle with travel costs.",
+          "Permanent centres may offer more predictable facilities and schedules."
+        ]
+      },
+      {
+        "id": "2026-11-24-pakistan-writing-prize",
+        "category": "Culture & People",
+        "region": "Pakistan",
+        "date": "2026-11-22",
+        "source": "Dawn Images; Zeenat Haroon Rashid Writing Prize",
+        "sourceUrl": "https://images.dawn.com/news/1196185/sobh-saeed-rid-wins-zeenat-haroon-rashid-writing-prize-for-her-memoir-the-man-on-the-computer",
+        "title": "A young writer finds a story in family distance",
+        "dek": "A Pakistani women's writing prize celebrates a memoir about an absent father.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "24岁的Sobh Saeed Rid以回忆性作品《The Man on the Computer》获得2026年Zeenat Haroon Rashid女性写作奖，奖金10万巴基斯坦卢比。Dawn注明原报纸报道日期为11月22日，网络版更新于23日；主办方官网确认获奖结果：https://www.zhrwritingprize.com/ 。",
+        "b1": [
+          "A family story does not need a dramatic adventure to matter. Sometimes the distance between two people is enough. Pakistani writer Sobh Saeed Rid has won the 2026 Zeenat Haroon Rashid Writing Prize for Women with a memoir called The Man on the Computer.",
+          "Dawn reported that Rid is 24 and comes from Khairpur Mirs. Her work explores a relationship with an absent father. The prize includes 100,000 Pakistani rupees. The organiser's website also confirms her as this year's winner.",
+          "The competition gives women of Pakistani nationality or heritage a place to share original writing in English. Its rules alternate between fiction and nonfiction, and this year's winning work belongs to the second group.",
+          "For an English student, the story offers a useful reminder: your own experiences can become writing material. You do not have to copy a famous novelist's life. A memory, an ordinary conversation or a feeling that is hard to explain may be a starting point. The challenge is choosing details that help another person understand."
+        ],
+        "b2": [
+          "Sobh Saeed Rid's winning memoir, The Man on the Computer, turns an intimate family relationship into a public literary achievement. Dawn's report identifies the 24-year-old writer from Khairpur Mirs as the winner of the 2026 Zeenat Haroon Rashid Writing Prize for Women. The work considers distance from an absent father.",
+          "The award's official rules offer another way to understand its significance. It invites original English-language work from adult women of Pakistani nationality or heritage, with entries limited to 3,000 words. The competition alternates fiction and nonfiction, creating opportunities for different kinds of storytelling.",
+          "A short word limit can be a creative constraint. Rather than explaining an entire life, a writer must decide which moments carry the greatest meaning. For readers learning English, that makes personal essays an interesting bridge between language practice and attention to other people's lives.",
+          "One should not assume that a single prize represents every woman's experience. Its value may instead lie in making room for a particular voice. Rid's achievement suggests a constructive question for aspiring writers: which small, specific memory could reveal something larger about a relationship?"
+        ],
+        "vocab": [
+          [
+            "memoir",
+            "/ˈmemwɑː/",
+            "回忆录；回忆性作品",
+            "Her memoir explores family relationships."
+          ],
+          [
+            "heritage",
+            "/ˈherɪtɪdʒ/",
+            "文化传承；血缘背景",
+            "She writes about her family heritage."
+          ],
+          [
+            "nonfiction",
+            "/ˌnɒnˈfɪkʃən/",
+            "非虚构作品",
+            "The class discussed a piece of nonfiction."
+          ],
+          [
+            "intimate",
+            "/ˈɪntɪmət/",
+            "私人的；亲密的",
+            "The essay offers an intimate view of family life."
+          ],
+          [
+            "constraint",
+            "/kənˈstreɪnt/",
+            "限制；约束",
+            "A word limit can be a useful constraint."
+          ],
+          [
+            "aspiring",
+            "/əˈspaɪərɪŋ/",
+            "有志于成为……的",
+            "The workshop welcomes aspiring writers."
+          ]
+        ],
+        "question": "What responsibilities does a writer have when sharing a story about real family members?",
+        "thoughts": [
+          "Honest personal writing can help others understand difficult experiences.",
+          "Respect for relatives' privacy may require leaving some details out."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "stories": [
       {
