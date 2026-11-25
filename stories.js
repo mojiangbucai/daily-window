@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-25",
+    "stories": [
+      {
+        "id": "2026-11-25-slovakia-overseas-voting",
+        "category": "Politics & Society",
+        "region": "Slovakia",
+        "date": "2026-11-24",
+        "source": "Associated Press; Euronews",
+        "sourceUrl": "https://apnews.com/article/slovakia-fico-election-mail-vote-becd0427f94b902eb11ce04c6dc007ec",
+        "title": "How far should someone have to travel to vote?",
+        "dek": "Slovak lawmakers approve replacing postal voting abroad, setting off a dispute over access and security.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "11月24日，斯洛伐克议会以79票对71票通过取消海外邮寄投票的法案。AP与Euronews报道时，法案仍需总统签署，不能称为已经生效。政府强调安全，反对派质疑政治动机。补充来源：Euronews，2026-11-24，https://www.euronews.com/2026/11/24/slovakia-moves-to-scrap-postal-voting-for-citizens-living-abroad",
+        "b1": [
+          "Imagine studying in another country when your home country holds an election. Would you send your vote by post, or travel to an embassy? In Slovakia, that question has become a political argument. On November 24, lawmakers approved a bill to end postal voting for citizens abroad. It passed by 79 votes to 71.",
+          "Under the proposed change, overseas voters would vote in person at Slovak diplomatic offices. The bill still needed the president's signature when AP reported the news. Parliamentary approval is therefore an important step, but it is not the same as a rule already being in force.",
+          "The government says the change would protect voting security. Opponents say it would make participation harder and harm their supporters. These are competing claims, rather than agreed conclusions.",
+          "For someone living far from an embassy, the practical issue could be time and travel costs. A right can be difficult to use even when it exists. The debate asks how election rules can protect both trust and participation."
+        ],
+        "b2": [
+          "Slovakia's parliament has approved legislation that would replace postal voting from abroad with voting at diplomatic offices. The November 24 vote was 79 to 71. AP and Euronews reported that President Peter Pellegrini's signature was still required, an important qualification when describing the measure's legal status.",
+          "Prime Minister Robert Fico argues that the change would prevent fraud, although AP reported that he provided no evidence for that claim. Opposition parties reject the explanation and say the measure would disadvantage voters living overseas. Their concerns arise in a politically sensitive context: those voters strongly favoured opposition groups at the previous parliamentary election.",
+          "The broader question concerns the difference between formal rights and practical access. An embassy ballot may remain legally available while becoming expensive or inconvenient for someone who lives far away. Conversely, confidence in an election also depends on safeguards that voters understand and trust.",
+          "These competing goals need evidence, rather than assumptions about who deserves to vote. A useful evaluation would examine travel distances, likely participation and the specific security problems the proposed reform is meant to solve."
+        ],
+        "vocab": [
+          [
+            "ballot",
+            "/ˈbælət/",
+            "选票；投票",
+            "She placed her ballot in the box."
+          ],
+          [
+            "embassy",
+            "/ˈembəsi/",
+            "大使馆",
+            "The embassy is several hours away."
+          ],
+          [
+            "legislation",
+            "/ˌledʒɪsˈleɪʃən/",
+            "立法；法律",
+            "Parliament approved the legislation."
+          ],
+          [
+            "participation",
+            "/pɑːˌtɪsɪˈpeɪʃən/",
+            "参与",
+            "Travel costs can affect participation."
+          ],
+          [
+            "safeguard",
+            "/ˈseɪfɡɑːd/",
+            "保障措施",
+            "The system needs clear safeguards."
+          ],
+          [
+            "qualification",
+            "/ˌkwɒlɪfɪˈkeɪʃən/",
+            "限定条件；补充说明",
+            "That qualification changes how we understand the report."
+          ]
+        ],
+        "question": "How should a country balance convenient voting with confidence in ballot security?",
+        "thoughts": [
+          "Offering several voting methods can make participation more equal.",
+          "Every method needs clear safeguards and public oversight."
+        ]
+      },
+      {
+        "id": "2026-11-25-australia-online-duty",
+        "category": "Technology & Everyday Life",
+        "region": "Australia",
+        "date": "2026-11-24",
+        "source": "Reuters; Australian Minister for Communications; Associated Press",
+        "sourceUrl": "https://www.reuters.com/business/australia-fine-tech-firms-up-5-global-revenue-under-internet-safety-bill-2026-11-24/",
+        "title": "Who should take responsibility for online risks?",
+        "dek": "An Australian political deal advances a proposed duty of care for digital platforms.",
+        "scene": "health",
+        "readTime": 3,
+        "background": "澳大利亚政府11月24日宣布与绿党就《数字注意义务》法案达成协议。拟议处罚上限可涉及全球营收的5%，不是已经开出的罚单，也不是利润的5%。报道时仍涉及议会程序。部长原文：2026-11-24，https://minister.infrastructure.gov.au/wells/transcript/press-conference-parliament-house 。AP同日报道：https://apnews.com/article/australia-digital-duty-care-law-parliament-ec75eeb559e67465a6dbb1720bbbabe3",
+        "b1": [
+          "You open an app for five minutes, then notice that half an hour has passed. Features that keep people scrolling are part of a wider discussion in Australia: how much responsibility should online companies take for risks in their services?",
+          "On November 24, the government announced an agreement with the Greens to advance its proposed Digital Duty of Care law. The plan would require platforms to look for risks and reduce harmful experiences. Proposed penalties could reach five per cent of a company's global revenue. That is a possible maximum, not a fine already imposed.",
+          "Communications Minister Anika Wells also described plans to let people sue platforms for breaking the new duty. Parliamentary steps were still part of the process described in the reports.",
+          "Supporters want companies to think about safety before harm happens. Critics worry that unclear rules could encourage the removal of lawful speech. For ordinary users, the challenge is easy to understand: people want safer apps, while also wanting space to express different ideas."
+        ],
+        "b2": [
+          "Australia's proposed Digital Duty of Care has gained political momentum after the government reached an agreement with the Greens on November 24. Reuters reported that the package could expose platforms to penalties of up to five per cent of global revenue. The proposal concerns revenue, not profit, and the figure describes a potential ceiling rather than an automatic punishment.",
+          "The approach would put more responsibility on companies to anticipate and reduce harmful experiences. In an official press conference, Communications Minister Anika Wells said addictive design would be included in risk assessments. She also outlined a proposed right for individuals to bring legal action when platforms breach their duty.",
+          "The debate reaches beyond the size of a fine. Supporters see prevention as a necessary part of designing widely used services. Critics fear that broad definitions of harm could push companies towards excessive content removal.",
+          "Those concerns make implementation important. Clear standards, meaningful complaints procedures and independent review could help users understand both their protections and their freedoms. The November 24 reports describe an advancing legislative proposal, rather than proof that its promised benefits have already arrived."
+        ],
+        "vocab": [
+          [
+            "platform",
+            "/ˈplætfɔːm/",
+            "网络平台",
+            "The platform should explain its safety rules."
+          ],
+          [
+            "revenue",
+            "/ˈrevənjuː/",
+            "营收",
+            "Revenue is different from profit."
+          ],
+          [
+            "foreseeable",
+            "/fɔːˈsiːəbl/",
+            "可预见的",
+            "Designers should consider foreseeable risks."
+          ],
+          [
+            "assessment",
+            "/əˈsesmənt/",
+            "评估",
+            "The team carried out a risk assessment."
+          ],
+          [
+            "breach",
+            "/briːtʃ/",
+            "违反",
+            "A serious breach may lead to a penalty."
+          ],
+          [
+            "lawful",
+            "/ˈlɔːfəl/",
+            "合法的",
+            "Rules should protect lawful expression."
+          ]
+        ],
+        "question": "What would make an app safer without removing too much freedom from its users?",
+        "thoughts": [
+          "Companies should change designs that create predictable risks.",
+          "Safety rules should be precise and allow users to challenge mistakes."
+        ]
+      },
+      {
+        "id": "2026-11-25-la-community-culture",
+        "category": "Culture & Community",
+        "region": "United States",
+        "date": "2026-11-24",
+        "source": "Santa Monica Daily Press",
+        "sourceUrl": "https://www.smdp.com/county-adopts-cultural-plan-to-spread-2028-games-programming-to-every-neighborhood/",
+        "title": "The Games beyond the stadium",
+        "dek": "A Los Angeles County cultural framework looks towards neighbourhood participation in 2028.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "《Santa Monica Daily Press》11月24日报道洛杉矶县面向2028奥运会及残奥会的文化活动框架，目标覆盖全县88个城市及更多社区。本篇按报道日期收录，不将框架批准时间写成当天新发生的事实；具体活动、资金和实施仍需推进。",
+        "b1": [
+          "When you think about the Olympic Games, you may picture athletes, medals and large stadiums. But what could the Games mean for people who never attend a competition? A November 24 report from the Santa Monica Daily Press describes a cultural plan for Los Angeles County.",
+          "The framework looks towards arts participation across the county's 88 cities ahead of the 2028 Olympic and Paralympic Games. It includes ideas involving music, performances, public art and young people. These are plans for future activity, not a list of events that have already taken place.",
+          "Imagine a concert in a local park or an art project near your library. Activities like these could give residents a way to take part without buying a sports ticket. They could also introduce visitors to places beyond the best-known attractions.",
+          "The hopeful idea is that a major event can leave something useful for everyday life. Its success will depend on what communities actually receive, and whether residents have a meaningful chance to help shape the programme."
+        ],
+        "b2": [
+          "A major sporting event can transform a city's image, but its benefits may feel distant from ordinary neighbourhoods. A November 24 Santa Monica Daily Press report describes Los Angeles County's cultural framework for the 2028 Olympic and Paralympic Games, with an emphasis on participation beyond sporting venues.",
+          "The framework covers areas such as performances, public art and youth programmes. It aims to connect communities across all 88 cities in the county. The report also describes efforts to find partners for activities requiring additional funding, a reminder that adopting a framework does not guarantee every proposed project.",
+          "This raises an interesting question about cultural legacy. A temporary celebration might attract attention, while relationships between local artists, libraries and residents could last much longer. One possible measure of success would be whether those connections continue after international visitors leave.",
+          "Access also deserves attention. Programmes can appear inclusive in publicity yet remain difficult to reach because of transport, timing or cost. The constructive opportunity is to let neighbourhoods help define participation, instead of assuming that one central celebration will serve everyone equally."
+        ],
+        "vocab": [
+          [
+            "framework",
+            "/ˈfreɪmwɜːk/",
+            "框架",
+            "The framework guides future planning."
+          ],
+          [
+            "venue",
+            "/ˈvenjuː/",
+            "活动场地",
+            "The library could become a performance venue."
+          ],
+          [
+            "legacy",
+            "/ˈleɡəsi/",
+            "遗产；长期影响",
+            "The festival hopes to leave a cultural legacy."
+          ],
+          [
+            "resident",
+            "/ˈrezɪdənt/",
+            "居民",
+            "Residents helped choose the project."
+          ],
+          [
+            "inclusive",
+            "/ɪnˈkluːsɪv/",
+            "包容的；让更多人参与的",
+            "An inclusive event considers different needs."
+          ],
+          [
+            "participate",
+            "/pɑːˈtɪsɪpeɪt/",
+            "参与",
+            "Young artists can participate in local activities."
+          ]
+        ],
+        "question": "What would you want a major international event to leave behind in your neighbourhood?",
+        "thoughts": [
+          "Small local arts projects may create benefits that last.",
+          "Large celebrations can also build a shared sense of excitement."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "stories": [
       {
