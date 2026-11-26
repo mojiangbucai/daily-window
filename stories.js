@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-26",
+    "stories": [
+      {
+        "id": "2026-11-26-canada-student-trust",
+        "category": "Education & Society",
+        "region": "Canada",
+        "date": "2026-11-25",
+        "source": "Reuters; Immigration, Refugees and Citizenship Canada",
+        "sourceUrl": "https://www.reuters.com/world/americas/canadas-foreign-student-restrictions-test-carneys-push-attract-research-talent-2026-11-25/",
+        "title": "When a country wants talent but sends mixed signals",
+        "dek": "Canadian universities face the challenge of welcoming students amid changing restrictions.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "Reuters于11月25日报道加拿大大学在国际学生限制下争取人才的困境。补充核对IRCC原始政策文件：2025-11-25发布、2026-01-01起适用，公立指定院校硕博申请免交省／地区证明信，并非免学签。https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html",
+        "b1": [
+          "Choosing a university abroad involves more than choosing a course. Students also need to understand a country's rules and feel confident about their plans. A November 25 Reuters report describes Canadian universities trying to attract international students while restrictions create uncertainty.",
+          "One detail shows why broad headlines can be confusing. Canada's immigration department says that, from January 1, 2026, master's and doctoral students at public designated institutions do not need a provincial or territorial attestation letter with their study permit application. That exception removes a document requirement; it does not remove the need for a study permit.",
+          "Imagine comparing two universities with similar courses. Clear information about the next steps could influence your decision as much as a welcoming advertisement. If a rule changes, you may also wonder whether another change will follow.",
+          "The wider issue is trust. A country can welcome talent in its messages, but students must make practical decisions about money and time. Consistent explanations help people understand what is possible without treating every applicant as the same."
+        ],
+        "b2": [
+          "Universities compete internationally for students, but their invitations operate within national immigration systems. Reuters reported on November 25 that Canadian universities are trying to rebuild confidence among international applicants as restrictions complicate recruitment. The tension is between an institution's welcome and the signals sent by changing policy.",
+          "The official rules illustrate why precision matters. Since January 1, 2026, master's and doctoral students enrolled at public designated learning institutions have been exempt from submitting a provincial or territorial attestation letter with their study permit applications. This is an exemption from a particular requirement, rather than permission to study without immigration approval.",
+          "For a prospective student, uncertainty can become a cost of its own. Preparing an application takes effort, and committing to travel requires confidence that the process is understandable. Even a favourable exception may have limited value if people do not know it exists.",
+          "The broader lesson is about communication as well as policy. Institutions and governments need to explain which groups a rule covers, when it applies and what remains required. Welcoming language becomes more meaningful when the practical instructions are equally clear."
+        ],
+        "vocab": [
+          [
+            "applicant",
+            "/ˈæplɪkənt/",
+            "申请人",
+            "Every applicant needs clear instructions."
+          ],
+          [
+            "restriction",
+            "/rɪˈstrɪkʃən/",
+            "限制",
+            "The restriction applies to certain applications."
+          ],
+          [
+            "exemption",
+            "/ɪɡˈzempʃən/",
+            "豁免",
+            "The exemption concerns one document."
+          ],
+          [
+            "attestation",
+            "/ˌætesˈteɪʃən/",
+            "证明；认证",
+            "She checked whether an attestation letter was required."
+          ],
+          [
+            "prospective",
+            "/prəˈspektɪv/",
+            "潜在的；未来的",
+            "Prospective students attended the online meeting."
+          ],
+          [
+            "consistent",
+            "/kənˈsɪstənt/",
+            "一致的；稳定的",
+            "Students need consistent information."
+          ]
+        ],
+        "question": "What information would help you trust a university's welcome to international students?",
+        "thoughts": [
+          "Clear and stable procedures may matter as much as promotion.",
+          "Some policy changes may be necessary, but their scope should be explained."
+        ]
+      },
+      {
+        "id": "2026-11-26-lebanon-airport-plans",
+        "category": "Society & Public Life",
+        "region": "Lebanon",
+        "date": "2026-11-25",
+        "source": "Reuters; The Beiruter",
+        "sourceUrl": "https://www.reuters.com/world/middle-east/lebanon-opening-second-airport-reflects-political-shifts-2026-11-25/",
+        "title": "A northern airport prepares for a new chapter",
+        "dek": "Lebanon's planned second commercial gateway brings hopes for development, with approvals still essential.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "Reuters于11月25日报道黎巴嫩计划于12月启用北部机场商业服务。不是已经全面通航。The Beiruter于11月24日直接采访交通部长，确认预订、班表仍取决于安全、运营准备及审批：https://www.thebeiruter.com/article/kleyat-airport-how-close-are-we-to-takeoff/3162 。",
+        "b1": [
+          "An airport can mean more than a place to catch a plane. For a region with few opportunities, it can represent a hoped-for connection to jobs, visitors and family members abroad. Reuters reported on November 25 that Lebanon plans to open another international gateway in its north next month.",
+          "The airport is called Kleyat, also known as René Mouawad International Airport. In a separate interview with The Beiruter, Transport Minister Fayez Rasamny said commercial services would begin only after safety and security requirements were met. Planned bookings and flight schedules still depended on approval.",
+          "For residents, a nearby airport could make a journey easier. But a new building or announced route is only part of a working transport service. Roads, baggage checks, emergency teams and reliable operations matter too.",
+          "The hopeful story is therefore still unfinished. It concerns preparations and expectations, rather than a promise already delivered. Watching the next steps can show how a public project moves from an attractive idea to something people can actually use."
+        ],
+        "b2": [
+          "Lebanon's preparations for commercial services at Kleyat Airport highlight the relationship between infrastructure and regional opportunity. A November 25 Reuters report describes plans for a northern international gateway, with operations intended to begin in December. The development is presented as a potential boost for an underserved region, rather than simply an additional travel facility.",
+          "Practical readiness remains central. In a November 24 interview with The Beiruter, Transport Minister Fayez Rasamny said commercial operations depended on meeting safety and security requirements. The proposed booking arrangements and schedules were conditional on approvals and operational readiness.",
+          "This distinction matters because announcements can create expectations before a service exists in its final form. A useful evaluation would ask whether nearby communities gain reliable connections and whether supporting transport makes the airport accessible. Passenger numbers alone would not explain who benefits.",
+          "There is also a broader question of development. Large projects may symbolise renewed attention to a region, but their everyday value depends on sustained services and effective maintenance. For now, the meaningful news is progress towards a possible opening, with important conditions still attached."
+        ],
+        "vocab": [
+          [
+            "gateway",
+            "/ˈɡeɪtweɪ/",
+            "门户；通道",
+            "The airport could become a regional gateway."
+          ],
+          [
+            "infrastructure",
+            "/ˈɪnfrəstrʌktʃə/",
+            "基础设施",
+            "Transport infrastructure needs regular maintenance."
+          ],
+          [
+            "approval",
+            "/əˈpruːvəl/",
+            "批准",
+            "The schedule still requires approval."
+          ],
+          [
+            "readiness",
+            "/ˈredinəs/",
+            "准备就绪的状态",
+            "Officials reviewed operational readiness."
+          ],
+          [
+            "conditional",
+            "/kənˈdɪʃənəl/",
+            "有条件的",
+            "The opening date remains conditional on safety checks."
+          ],
+          [
+            "maintenance",
+            "/ˈmeɪntənəns/",
+            "维护；保养",
+            "Reliable service depends on good maintenance."
+          ]
+        ],
+        "question": "How would you judge whether a major transport project really benefits local residents?",
+        "thoughts": [
+          "Better connections can create opportunities beyond travel itself.",
+          "Benefits should be measured through reliable service and local access."
+        ]
+      },
+      {
+        "id": "2026-11-26-lindauer-portraits",
+        "category": "Culture & People",
+        "region": "New Zealand",
+        "date": "2026-11-25",
+        "source": "1News (TVNZ)",
+        "sourceUrl": "https://tvnz-1-news-prod.cdn.arcpublishing.com/2026/11/25/its-an-honour-century-old-paintings-gifted-years-after-ram-raid-heist/",
+        "title": "Recovered portraits, and a search for their stories",
+        "dek": "Two restored Lindauer paintings join Te Papa, while the identities of their subjects remain uncertain.",
+        "scene": "health",
+        "readTime": 3,
+        "background": "1News于11月25日报道，两幅1884年的Gottfried Lindauer肖像修复后移交Te Papa。作品2017年被盗、2022年找回；被画者身份尚未确认。报道所述临时展出计划为12月中旬，不是当日已开放展览。",
+        "b1": [
+          "Two paintings have reached a safer new chapter after years of damage and uncertainty. On November 25, 1News reported that two portraits by Gottfried Lindauer had joined New Zealand's national collection at Te Papa. They were painted in 1884, stolen in 2017 and recovered by police in 2022.",
+          "Vero Insurance paid for their restoration. Although the artworks have been repaired, the people shown in them have not been confidently identified. The museum plans to continue that search. A temporary public display is expected from the middle of December.",
+          "This makes the story more than an account of valuable objects being found. A portrait can connect viewers with a person whose name or family story has become difficult to trace. Repairing the canvas does not automatically recover all that knowledge.",
+          "For visitors, the missing information could encourage careful attention. Instead of seeing a picture as something completely understood, they can consider what is known, what remains uncertain and how a museum might work with others to learn more."
+        ],
+        "b2": [
+          "The recovery of an artwork does not necessarily end its journey. According to 1News on November 25, two nineteenth-century portraits by Gottfried Lindauer have been restored and transferred to Te Papa. Their repair offers a constructive outcome after theft and serious damage, but research into the subjects' identities remains unfinished.",
+          "The museum's next task therefore involves knowledge as well as conservation. A painting preserves an appearance, yet the name and relationships of the person represented may still be uncertain. Recognising that uncertainty is more responsible than turning a traditional description into an established identity.",
+          "The story invites a wider reflection on what museums protect. Physical materials need skilled treatment, while cultural meaning requires investigation, listening and careful interpretation. These forms of work can support each other without becoming interchangeable.",
+          "For a viewer, an incomplete label need not make a portrait less interesting. It can reveal the limits of an institution's knowledge and open a conversation about how those gaps might be addressed. The planned December display offers an opportunity to encounter both the restored paintings and the questions that remain around them."
+        ],
+        "vocab": [
+          [
+            "portrait",
+            "/ˈpɔːtrət/",
+            "肖像画",
+            "The portrait shows a person in formal clothing."
+          ],
+          [
+            "restoration",
+            "/ˌrestəˈreɪʃən/",
+            "修复",
+            "The restoration required patience and skill."
+          ],
+          [
+            "canvas",
+            "/ˈkænvəs/",
+            "画布",
+            "The damaged canvas was carefully repaired."
+          ],
+          [
+            "conservation",
+            "/ˌkɒnsəˈveɪʃən/",
+            "文物保护；保存",
+            "Conservation protects the original material."
+          ],
+          [
+            "identity",
+            "/aɪˈdentəti/",
+            "身份",
+            "Researchers have not confirmed the person's identity."
+          ],
+          [
+            "interpretation",
+            "/ɪnˌtɜːprɪˈteɪʃən/",
+            "解读；解释",
+            "New evidence may change our interpretation."
+          ]
+        ],
+        "question": "How should a museum present a portrait when the person's identity is still uncertain?",
+        "thoughts": [
+          "An honest label can explain uncertainty and invite further research.",
+          "Community knowledge should help shape how the work is understood."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "stories": [
       {
