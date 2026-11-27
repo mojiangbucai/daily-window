@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-27",
+    "stories": [
+      {
+        "id": "2026-11-27-india-meta-lawsuit",
+        "category": "Technology & Politics",
+        "region": "India",
+        "date": "2026-11-26",
+        "source": "Reuters; Moneycontrol / AFP",
+        "sourceUrl": "https://www.reuters.com/legal/government/meta-battles-political-storm-india-congress-party-sues-stages-protests-2026-11-26/",
+        "title": "When an automated filter meets political speech",
+        "dek": "India's Congress party challenges Meta and the government over restricted posts.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "11月26日报道：印度国大党相关人士向德里高等法院提出诉讼，指控自动系统限制涉及拉胡尔·甘地的合法政治内容。这是诉方主张，尚非法院认定。Meta称遵守当地法律。补充报道：Moneycontrol / AFP，2026-11-26，https://www.moneycontrol.com/news/india/congress-sues-meta-modi-government-over-alleged-censorship-of-rahul-gandhi-posts-14089810.html",
+        "b1": [
+          "A birthday message or wedding invitation may not look like a political argument. Yet India's Congress party says posts like these have been caught by an automated restriction system because they include opposition leader Rahul Gandhi. Reports published on November 26 describe a legal challenge against Meta and the Indian government.",
+          "The petition concerns rules requiring platforms to identify copies of content already ordered removed. Congress says the system goes beyond those copies and blocks lawful expression. It wants restricted posts restored and the reasons for blocking them disclosed. These are allegations for the court to examine, not findings already proved.",
+          "Meta says it follows Indian law when moderating content. The disagreement shows how a technical tool can become a question about public life.",
+          "Imagine your post disappearing without an explanation you understand. You might want to know which rule applied and how to appeal. A fast system can be useful, but people also need a way to question mistakes. The case brings those expectations into focus."
+        ],
+        "b2": [
+          "Automated moderation is often presented as a practical response to the enormous volume of online content. A legal challenge in India shows why it can also raise questions about political participation. Reuters and AFP reported on November 26 that Congress had challenged Meta and the government over restrictions affecting opposition-related posts.",
+          "The party alleges that a system intended to detect copies of previously restricted material is also catching lawful posts featuring Rahul Gandhi. The petition seeks restoration of content and disclosure of the orders and criteria behind restrictions. Meta maintains that its moderation complies with Indian law. No ruling establishing the allegations was reported.",
+          "The dispute therefore concerns both the underlying legal requirement and its implementation. Even a clearly stated rule can produce contested results when software applies it at scale. Conversely, an individual complaint does not by itself establish systematic political bias.",
+          "A useful standard is whether affected users receive intelligible reasons and a meaningful opportunity to appeal. The broader issue is accountability: when government requirements and private technology interact, people should still be able to understand who made a decision and how it can be reviewed."
+        ],
+        "vocab": [
+          [
+            "petition",
+            "/pəˈtɪʃən/",
+            "向法院提出的申请；请愿书",
+            "The petition asks the court to review the rule."
+          ],
+          [
+            "allegation",
+            "/ˌæləˈɡeɪʃən/",
+            "尚待证实的指控",
+            "The court will examine the allegation."
+          ],
+          [
+            "moderation",
+            "/ˌmɒdəˈreɪʃən/",
+            "内容审核",
+            "Content moderation involves difficult decisions."
+          ],
+          [
+            "disclose",
+            "/dɪsˈkləʊz/",
+            "披露",
+            "Users asked the platform to disclose its criteria."
+          ],
+          [
+            "appeal",
+            "/əˈpiːl/",
+            "申诉；上诉",
+            "She submitted an appeal against the restriction."
+          ],
+          [
+            "intelligible",
+            "/ɪnˈtelɪdʒəbəl/",
+            "可理解的",
+            "The notice should give an intelligible explanation."
+          ]
+        ],
+        "question": "What explanation should a platform provide when it restricts a political post?",
+        "thoughts": [
+          "Users need clear reasons and a practical route to appeal.",
+          "Platforms also need tools to act quickly on genuinely unlawful material."
+        ]
+      },
+      {
+        "id": "2026-11-27-uk-migration-estimates",
+        "category": "Society & Public Life",
+        "region": "United Kingdom",
+        "date": "2026-11-26",
+        "source": "Office for National Statistics; Sky News",
+        "sourceUrl": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026",
+        "title": "What a migration headline leaves between the numbers",
+        "dek": "New UK estimates show a sharp fall in net migration, a measure of arrivals minus departures.",
+        "scene": "health",
+        "readTime": 3,
+        "background": "ONS于11月26日发布截至2026年6月一年的长期净移民初步估计：7.7万人，前一年修订为20.4万人。总迁入与总迁出分别约73.8万、66.1万。数据按长期迁移口径统计，并非当日入境人数。补充：Sky News，2026-11-26，https://news.sky.com/story/uk-net-migration-falls-to-77-000-latest-data-shows-13616677",
+        "b1": [
+          "Britain's latest migration figures contain a small word with a big meaning: net. On November 26, the Office for National Statistics estimated net migration at 77,000 for the year ending June 2026. The previous year's updated estimate was 204,000.",
+          "Net migration is the number arriving to live in a country long term minus the number leaving. In this release, estimated arrivals were 738,000 and departures were 661,000. Subtracting the second figure from the first gives 77,000. It does not mean that only 77,000 people arrived.",
+          "The figures are provisional, so they may change as better information becomes available. The ONS also warned of greater uncertainty in its estimates for British nationals because some updated data were unavailable.",
+          "Why does this matter outside a statistics classroom? Migration debates concern workers, students, families and public services. Different groups can have very different experiences behind one total. Understanding the measure helps readers ask better questions before deciding what the change means for society."
+        ],
+        "b2": [
+          "The UK's provisional net migration estimate fell to 77,000 in the year ending June 2026, according to the ONS release published on November 26. That is substantially below the revised 204,000 estimate for the preceding year. The figures describe a period ending in June, rather than movements taking place when the news appeared.",
+          "A net figure combines two flows. The release estimates 738,000 long-term arrivals and 661,000 departures. These movements include different nationalities and reasons for migration; the headline balance cannot explain each group's experience. In this statistical framework, long-term movement generally means a period of at least twelve months.",
+          "The release also requires caution. Its estimates are provisional, and British-national figures involve greater uncertainty because an updated data source was unavailable. Such qualifications are part of the evidence, rather than details that can safely be ignored.",
+          "The social implications need separate investigation. A lower balance might affect demand for some services while changing recruitment conditions elsewhere. The total alone cannot establish either outcome. Reading migration news carefully means separating what a number measures from the political conclusions people attach to it."
+        ],
+        "vocab": [
+          [
+            "net",
+            "/net/",
+            "净额的；扣除后的",
+            "Net migration subtracts departures from arrivals."
+          ],
+          [
+            "provisional",
+            "/prəˈvɪʒənəl/",
+            "初步的；暂定的",
+            "The provisional figures may be revised."
+          ],
+          [
+            "departure",
+            "/dɪˈpɑːtʃə/",
+            "离开；迁出",
+            "The estimate includes arrivals and departures."
+          ],
+          [
+            "revise",
+            "/rɪˈvaɪz/",
+            "修订",
+            "Statisticians revise estimates when new data arrive."
+          ],
+          [
+            "nationality",
+            "/ˌnæʃəˈnæləti/",
+            "国籍",
+            "The report compares different nationality groups."
+          ],
+          [
+            "uncertainty",
+            "/ʌnˈsɜːtənti/",
+            "不确定性",
+            "The release explains the sources of uncertainty."
+          ]
+        ],
+        "question": "What else would you want to know before judging the effects of lower net migration?",
+        "thoughts": [
+          "Public services may need to plan for changing population pressures.",
+          "Employers and universities may face different effects in different places."
+        ]
+      },
+      {
+        "id": "2026-11-27-montreal-fashion-art",
+        "category": "Culture & People",
+        "region": "Canada",
+        "date": "2026-11-25",
+        "source": "McCord Stewart Museum",
+        "sourceUrl": "https://www.musee-mccord-stewart.ca/en/news/sovereign-stitches-wild-weaves/",
+        "title": "Clothing as a conversation about identity",
+        "dek": "A Montreal exhibition brings contemporary Indigenous art, fashion and design together.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "博物馆11月25日发布的原始公告列明，《Sovereign Stitches + Wild Weaves》展期为2026-11-26至2027-09-06，由Wanda Nanibush与Sage Paul共同策展，汇集39位艺术家。开幕周各项活动时间不同，不能写成均已举行。",
+        "b1": [
+          "A piece of clothing can do more than keep someone warm or follow a trend. It can express an idea about family, community or the person wearing it. A new exhibition at Montreal's McCord Stewart Museum invites visitors to explore these possibilities through Indigenous creativity.",
+          "Sovereign Stitches + Wild Weaves is scheduled from November 26, 2026, to September 6, 2027. The museum's November 25 announcement names Wanda Nanibush and Sage Paul as its curators. It brings together 39 artists and about sixty creations, connecting contemporary art with fashion and design.",
+          "The opening programme includes discussions, a marketplace and performances on different dates. These activities offer several ways to meet the ideas behind the objects, rather than treating every visitor as the same kind of audience.",
+          "For an English student, the exhibition's subject suggests a useful conversation starter: what does something you wear communicate? There is no single correct answer. Meaning can come from the maker's intention, the wearer's experience and the way other people respond."
+        ],
+        "b2": [
+          "Fashion can be read as a form of expression, but who gets to define its meaning? Montreal's McCord Stewart Museum addresses that question through Sovereign Stitches + Wild Weaves, an exhibition connecting contemporary Indigenous art, clothing and design. Its announced run begins November 26 and continues until September 6, 2027.",
+          "Curated by Wanda Nanibush and Sage Paul, the exhibition brings together 39 artists from more than thirty nations. According to the museum's November 25 release, approximately sixty creations cross boundaries between artistic disciplines and customary practices. The opening programme adds conversations and live activities to the displays.",
+          "The variety matters because a cultural label should not imply a single, fixed style. Individual makers can respond differently to inherited knowledge, present circumstances and creative ambition. An exhibition can make those differences visible rather than asking one object to represent everyone.",
+          "For visitors, a useful approach is to consider both material and voice: how was something made, and whose ideas guide its presentation? That can turn looking at clothing into a more attentive encounter with identity, interpretation and the freedom to create."
+        ],
+        "vocab": [
+          [
+            "curator",
+            "/kjʊəˈreɪtə/",
+            "策展人",
+            "The curator selected works for the exhibition."
+          ],
+          [
+            "customary",
+            "/ˈkʌstəməri/",
+            "传统惯例的",
+            "The artist explores customary practices."
+          ],
+          [
+            "discipline",
+            "/ˈdɪsəplɪn/",
+            "学科；艺术门类",
+            "Her work crosses several artistic disciplines."
+          ],
+          [
+            "inherited",
+            "/ɪnˈherɪtɪd/",
+            "传承而来的",
+            "The design draws on inherited knowledge."
+          ],
+          [
+            "intention",
+            "/ɪnˈtenʃən/",
+            "意图",
+            "Visitors discussed the maker's intention."
+          ],
+          [
+            "encounter",
+            "/ɪnˈkaʊntə/",
+            "相遇；接触",
+            "The exhibition offers an encounter with new ideas."
+          ]
+        ],
+        "question": "How can clothing express identity while leaving room for individual creativity?",
+        "thoughts": [
+          "Shared techniques and materials can create a sense of connection.",
+          "People should also be free to reinterpret traditions in their own ways."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "stories": [
       {
