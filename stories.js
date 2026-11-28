@@ -1,5 +1,214 @@
 window.DW_ISSUES = [
   {
+    "date": "2026-11-28",
+    "stories": [
+      {
+        "id": "2026-11-28-nz-coalition-count",
+        "category": "Politics & Society",
+        "region": "New Zealand",
+        "date": "2026-11-27",
+        "source": "Reuters; New Zealand Electoral Commission",
+        "sourceUrl": "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/",
+        "title": "One seat short, and a conversation still to come",
+        "dek": "New Zealand's official count leaves government formation dependent on further talks.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "11月27日官方计票显示：国家党40席、行动党13席、优先党12席，共65席；本届议会130席，过半需66席。机会党7席。结果已核对选举委员会原表；谈判不等于已达成组阁协议。官方来源：https://electionresults.govt.nz/electionresults_2026/",
+        "b1": [
+          "Counting every vote can change what happens after an election. New Zealand's official results, reported on November 27, leave the existing governing parties one seat short of a majority. National has 40 seats, ACT has 13 and New Zealand First has 12. Together, that is 65 in a parliament of 130.",
+          "A majority requires 66 seats. The Opportunity Party has seven, making it important to the next stage. Reuters reports that Prime Minister Christopher Luxon will seek its support. A possible agreement is still something to negotiate, rather than a deal already completed.",
+          "This is a useful example of how voting and government formation can be different steps. Voters choose representatives, but parties may then need to find enough common ground to govern.",
+          "Imagine several student groups trying to run a council together. Agreeing on a leader might be easier than agreeing on every policy. For citizens, the important questions are what the parties promise each other and whether their arrangement can work over time."
+        ],
+        "b2": [
+          "New Zealand's official election count has clarified the parliamentary arithmetic without settling the next government. Results reported on November 27 give National, ACT and New Zealand First 65 of 130 seats. The Electoral Commission's table records 40, 13 and 12 seats respectively, leaving the existing bloc below the 66 needed for a majority.",
+          "Opportunity's seven seats give it a significant role. Reuters reports that Christopher Luxon will seek the party's support, but a completed governing agreement has not been announced in that report. Negotiating support is different from securing it.",
+          "The result illustrates why a parliamentary election can have more than one decisive moment. A verified count determines representation; subsequent discussions establish whether parties can sustain a government. Neither stage should be replaced by assumptions based on election-night expectations.",
+          "For voters, the substance of those discussions matters as much as the names involved. Agreements can turn competing priorities into a workable programme, but they also require compromise. Useful reporting should explain the commitments and arrangements that emerge, rather than treating a numerical possibility as a political certainty."
+        ],
+        "vocab": [
+          [
+            "coalition",
+            "/ˌkəʊəˈlɪʃən/",
+            "联合政府；政治联盟",
+            "The coalition needs additional support."
+          ],
+          [
+            "majority",
+            "/məˈdʒɒrəti/",
+            "多数；过半数",
+            "The parties are one seat short of a majority."
+          ],
+          [
+            "negotiate",
+            "/nɪˈɡəʊʃieɪt/",
+            "谈判；协商",
+            "The leaders will negotiate an agreement."
+          ],
+          [
+            "representation",
+            "/ˌreprɪzenˈteɪʃən/",
+            "代表权；代表席位",
+            "The count determines parliamentary representation."
+          ],
+          [
+            "compromise",
+            "/ˈkɒmprəmaɪz/",
+            "妥协；折中",
+            "A stable agreement may require compromise."
+          ],
+          [
+            "sustain",
+            "/səˈsteɪn/",
+            "维持",
+            "The arrangement must sustain support over time."
+          ]
+        ],
+        "question": "What should parties explain to voters when they negotiate a governing agreement?",
+        "thoughts": [
+          "Compromise can allow several groups of voters to influence policy.",
+          "Voters also need clarity about which promises may change."
+        ]
+      },
+      {
+        "id": "2026-11-28-spain-election-eve",
+        "category": "Politics & Everyday Life",
+        "region": "Spain",
+        "date": "2026-11-27",
+        "source": "Reuters; Associated Press",
+        "sourceUrl": "https://www.reuters.com/world/europe/spains-sanchez-insists-he-will-defy-polls-election-campaign-wraps-up-2026-11-27/",
+        "title": "Before Spain votes, the argument comes home",
+        "dek": "Campaigning closes ahead of the November 29 election, with housing among the key concerns.",
+        "scene": "climate",
+        "readTime": 3,
+        "background": "11月27日竞选收尾，西班牙定于11月29日举行提前大选。桑切斯的胜选信心与公开民调不同，均不是结果。AP同日报道住房负担等焦点：https://apnews.com/article/spain-election-pedro-sanchez-europe-migration-2b239780b9c5852829805efbd8925d43 。",
+        "b1": [
+          "Finding an affordable home can shape how people think about politics. As Spain prepares to vote on November 29, housing is one of the central issues in the campaign. AP's November 27 report describes competing approaches: Prime Minister Pedro Sánchez stresses regulation, while his main opponent, Alberto Núñez Feijóo, emphasises building more homes.",
+          "Reuters reports that parties are finishing their campaigns before the vote. Sánchez says he expects to win enough support to continue governing, despite unfavourable public polls. His confidence is a campaign statement, not an election result.",
+          "For younger voters, a housing debate can feel very personal. It may connect with the possibility of moving out, studying in another city or planning a future with someone. Those concerns can make a national election feel close to everyday life.",
+          "A useful way to compare promises is to ask how they would work and when people might notice a difference. Slogans can identify a problem quickly; explaining a practical solution usually takes more time."
+        ],
+        "b2": [
+          "Spain's election campaign is reaching its final stage ahead of the November 29 vote. In reporting published on November 27, Reuters describes Pedro Sánchez's confidence that he can retain power despite adverse public polling. That disagreement concerns expectations; the electorate has not yet delivered the result.",
+          "Beyond the contest between leaders, housing offers a concrete way to understand the stakes. AP identifies affordability as a major concern and contrasts Sánchez's emphasis on regulation with Alberto Núñez Feijóo's focus on increasing construction. These are proposed approaches, whose effectiveness cannot be established simply by repeating campaign promises.",
+          "The debate also connects individual experiences with public choices. A renter may prioritise immediate security, while someone trying to enter the housing market may think about future supply. Neither perspective necessarily captures every consequence of a policy.",
+          "For readers following the election from abroad, separating three things is especially helpful: the problem voters face, the measures parties propose and the evidence available about likely effects. The eventual vote will determine political possibilities, but it will not by itself demonstrate that any housing strategy has succeeded."
+        ],
+        "vocab": [
+          [
+            "affordability",
+            "/əˌfɔːdəˈbɪləti/",
+            "可负担性",
+            "Housing affordability matters to young voters."
+          ],
+          [
+            "regulation",
+            "/ˌreɡjʊˈleɪʃən/",
+            "监管；规制",
+            "The proposal calls for stronger regulation."
+          ],
+          [
+            "construction",
+            "/kənˈstrʌkʃən/",
+            "建设；建筑工程",
+            "Construction can increase the supply of homes."
+          ],
+          [
+            "electorate",
+            "/ɪˈlektərət/",
+            "选民整体",
+            "The electorate will decide on Sunday."
+          ],
+          [
+            "retain",
+            "/rɪˈteɪn/",
+            "保留；继续拥有",
+            "The leader hopes to retain support."
+          ],
+          [
+            "consequence",
+            "/ˈkɒnsɪkwəns/",
+            "后果；影响",
+            "Every policy can have unexpected consequences."
+          ]
+        ],
+        "question": "What would you ask a politician promising to make housing more affordable?",
+        "thoughts": [
+          "People facing high rents may need help that works quickly.",
+          "Long-term improvements may also require more homes and careful planning."
+        ]
+      },
+      {
+        "id": "2026-11-28-nairobi-wooden-deck",
+        "category": "Culture & People",
+        "region": "Kenya",
+        "date": "2026-11-27",
+        "source": "Associated Press",
+        "sourceUrl": "https://apnews.com/article/kenya-nairobi-street-deejay-5abfd2c207e94d79a8a9f44564f1b7bd",
+        "title": "A wooden box with a musical voice",
+        "dek": "A Nairobi DJ's handmade equipment invites a fresh look at creativity.",
+        "scene": "health",
+        "readTime": 3,
+        "background": "AP于11月27日报道内罗毕DJ Deejay Boboss（本名Paul Mwangi）的自制设备与表演。本篇是新发表的人物报道，不把配图中11月3日的拍摄场景写成27日的新活动。",
+        "b1": [
+          "What would you expect a DJ's equipment to look like? A November 27 AP feature introduces Deejay Boboss in Nairobi, Kenya. His homemade wooden deck uses discarded electronics and bottle caps. His real name is Paul Mwangi, and his performances draw the attention of people passing by.",
+          "The unusual equipment offers a starting point for thinking about creativity. We often imagine that making something impressive begins with buying the right product. Another possibility is to understand available materials well enough to give them a different purpose.",
+          "Imagine encountering a performance like this on your way home. You might stop because the object looks surprising, then stay because you enjoy what the performer does with it. The appearance attracts attention, but skill gives that attention somewhere to go.",
+          "The story does not mean that artists should have to manage without proper resources. It suggests a more generous way to recognise ability. Tools can support an idea, while an inventive person can also challenge our expectations of what a tool should be."
+        ],
+        "b2": [
+          "A handmade object can change how an audience notices a performance. In a feature published on November 27, AP profiles Nairobi musician Deejay Boboss, whose real name is Paul Mwangi. His self-built equipment turns familiar discarded materials into a distinctive part of his musical presentation.",
+          "The broader interest lies in the relationship between a tool and the person using it. Expensive equipment may offer reliability and possibilities, but ownership alone does not establish artistic skill. Equally, an unconventional device should be assessed through what its maker can actually do with it, rather than through surprise alone.",
+          "There is a risk in treating resourcefulness as proof that difficult circumstances do not matter. A creative achievement can deserve recognition while access to training, space and income remains important. Admiring invention should not become an excuse to overlook those needs.",
+          "For listeners, the constructive invitation is to stay curious. An object that looks ordinary may carry knowledge and patient experimentation that are not immediately visible. Paying attention to the maker's decisions can make a street performance an encounter with ideas as well as entertainment."
+        ],
+        "vocab": [
+          [
+            "discarded",
+            "/dɪˈskɑːdɪd/",
+            "被丢弃的",
+            "The artist found a new use for discarded materials."
+          ],
+          [
+            "resourcefulness",
+            "/rɪˈsɔːsfəlnəs/",
+            "足智多谋；善用资源的能力",
+            "The project shows remarkable resourcefulness."
+          ],
+          [
+            "distinctive",
+            "/dɪˈstɪŋktɪv/",
+            "有特色的",
+            "The instrument gives the performance a distinctive look."
+          ],
+          [
+            "unconventional",
+            "/ˌʌnkənˈvenʃənəl/",
+            "非传统的",
+            "She enjoys unconventional approaches to music."
+          ],
+          [
+            "experimentation",
+            "/ɪkˌsperɪmenˈteɪʃən/",
+            "试验；探索",
+            "The design developed through experimentation."
+          ],
+          [
+            "recognition",
+            "/ˌrekəɡˈnɪʃən/",
+            "认可",
+            "Local artists deserve recognition for their skills."
+          ]
+        ],
+        "question": "Does unusual equipment change how you judge a musical performance?",
+        "thoughts": [
+          "Inventive tools can become part of an artist's expression.",
+          "The music and skill should matter more than the equipment's appearance."
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "stories": [
       {
